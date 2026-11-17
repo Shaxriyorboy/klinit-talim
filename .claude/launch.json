@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "/Users/shaxriyortursunaliyev/StudioProjects/klinik-talim/backend/.venv/bin/uvicorn",
+      "runtimeArgs": ["app.main:app", "--port", "8100", "--app-dir", "/Users/shaxriyortursunaliyev/StudioProjects/klinik-talim/backend"],
+      "port": 8100
+    },
+    {
+      "name": "frontend",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/shaxriyortursunaliyev/StudioProjects/klinik-talim/frontend", "run", "dev", "--", "--port", "3100"],
+      "port": 3100
+    }
+  ]
+}

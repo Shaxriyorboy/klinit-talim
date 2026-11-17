@@ -1,0 +1,485 @@
+{
+  "notes": {
+    "p1-6": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra onalar o'limi holatlarining uchdan biridan ko'prog'i tug'ruq va tug'dirish vaqtidagi asoratlar bilan bog'liq.",
+        "ru": "Нет: по протоколу осложнениями во время родов и родоразрешения вызваны более одной трети случаев материнской смертности."
+      },
+      {
+        "uz": "Yo'q: protokolda «deyarli hammasi» emas, onalar o'limining uchdan biridan ko'prog'i ko'rsatilgan (shuningdek o'lik tug'ilishning yarmi va chaqaloq o'limining to'rtdan biri).",
+        "ru": "Нет: в протоколе указаны не «почти все», а более одной трети случаев материнской смертности (а также половина мертворождений и четверть смертей новорождённых)."
+      }
+    ],
+    "p2-1": [
+      null,
+      {
+        "uz": "Yo'q: ochilish 3 sm — bu hali faol faza emas; partogramma faol fazadan, ya'ni bachadon bo'yni 5 sm yoki undan ko'p ochilganda to'ldiriladi.",
+        "ru": "Нет: партограмму заполняют с начала активной фазы первого периода родов — при раскрытии шейки матки 5 см или более, а не 3 см."
+      },
+      {
+        "uz": "Yo'q: partogramma birinchi to'lg'oqdan emas, faol fazadan (ochilish ≥ 5 sm) boshlab to'ldiriladi; latent fazada u to'ldirilmaydi.",
+        "ru": "Нет: партограмму заполняют не с первой схватки, а с активной фазы (раскрытие ≥ 5 см); в латентной фазе её не заполняют."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra partogramma faol fazadan (ochilish ≥ 5 sm) pardalar holatidan qat'i nazar to'ldiriladi.",
+        "ru": "Нет: по протоколу партограмму заполняют с активной фазы (≥ 5 см) независимо от состояния плодных оболочек."
+      }
+    ],
+    "p2-2": [
+      null,
+      {
+        "uz": "Yo'q: latent fazada (ochilish 3 sm) partogramma to'ldirilmaydi; u faol fazadan — ochilish ≥ 5 sm dan boshlanadi.",
+        "ru": "Нет: в латентной фазе (раскрытие 3 см) партограмму не заполняют; её начинают с активной фазы — при раскрытии ≥ 5 см."
+      },
+      {
+        "uz": "Noto'g'ri: protokolga ko'ra latent fazada ham ona va homilani standart kuzatish hamda zarur yordam va parvarish majburiy.",
+        "ru": "Неверно: по протоколу и в латентной фазе стандартный мониторинг за состоянием матери и плода, необходимая помощь и уход обязательны."
+      }
+    ],
+    "p2-3": [
+      null,
+      {
+        "uz": "Yo'q: JSST 2022 partogrammasi 5 emas, 7 bo'limdan iborat: identifikatsiya, qo'llab-quvvatlovchi parvarish, bola, ona, tug'ruq jarayoni, dorilar, birgalikda qaror.",
+        "ru": "Нет: партограмма ВОЗ 2022 состоит не из 5, а из 7 разделов: идентификация, поддерживающий уход, помощь ребёнку, помощь матери, ход родов, лекарственные средства, совместное принятие решений."
+      },
+      {
+        "uz": "Yo'q: JSST 2022 partogrammasi 4 emas, 7 bo'limdan iborat: identifikatsiya, qo'llab-quvvatlovchi parvarish, bola, ona, tug'ruq jarayoni, dorilar, birgalikda qaror.",
+        "ru": "Нет: партограмма ВОЗ 2022 состоит не из 4, а из 7 разделов: идентификация, поддерживающий уход, помощь ребёнку, помощь матери, ход родов, лекарственные средства, совместное принятие решений."
+      },
+      {
+        "uz": "Yo'q: JSST 2022 partogrammasi 10 emas, 7 bo'limdan iborat: identifikatsiya, qo'llab-quvvatlovchi parvarish, bola, ona, tug'ruq jarayoni, dorilar, birgalikda qaror.",
+        "ru": "Нет: партограмма ВОЗ 2022 состоит не из 10, а из 7 разделов: идентификация, поддерживающий уход, помощь ребёнку, помощь матери, ход родов, лекарственные средства, совместное принятие решений."
+      }
+    ],
+    "p2-5": [
+      null,
+      {
+        "uz": "Yo'q: kritik mezonga mos parametr o'chirilmaydi — u aylana bilan belgilanadi, shunda alohida e'tibor talab qiladigan parametr ko'zga tashlanadi.",
+        "ru": "Нет: такой параметр не зачёркивают, а обводят кружком, чтобы наглядно выделить параметры, требующие особого внимания."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra tibbiyot xodimlari «Kritik ko'rsatkichlar» mezoniga mos har qanday parametrni aylana bilan belgilashi shart.",
+        "ru": "Нет: по протоколу медицинские работники должны обозначить кружком любые параметры, отвечающие критериям столбца «Критические показатели»."
+      }
+    ],
+    "p2-6": [
+      null,
+      {
+        "uz": "Yo'q: barcha parametrlar kritik qiymatlar doirasida bo'lsa, tug'ruq me'yorda deb hisoblanadi va tibbiy aralashuv talab qilinmaydi.",
+        "ru": "Нет: если все параметры в рамках пороговых значений, ход родов считается нормальным и проведения медицинских вмешательств не требуется."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra bunday holatda tug'ruq va yordam ko'rsatish me'yorga mos, hech qanday tibbiy aralashuv talab qilinmaydi.",
+        "ru": "Нет: по протоколу в этом случае ход родов и оказание помощи соответствуют норме, и медицинских вмешательств не требуется."
+      }
+    ],
+    "p2-7": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: homila yurak urishi 1-bo'limga emas, 3-bo'limga («Bolaga yordam») yoziladi; 1-bo'limda tug'ruqlar soni, tug'ruq boshlanishi, faol faza tashxisi sanasi, pardalar yorilishi va xavf omillari qayd etiladi.",
+        "ru": "Нет: ЧСС плода записывают не в раздел 1, а в раздел 3 («Оказание помощи ребёнку»); в разделе 1 — число родов, начало родовой деятельности, дата диагноза активной фазы, разрыв оболочек и факторы риска."
+      }
+    ],
+    "p2-8": [
+      null,
+      {
+        "uz": "Yo'q: «Soatlar» qatoridagi bitta katak 30 daqiqaga emas, bir astronomik soatga teng.",
+        "ru": "Нет: одной ячейке в ряду «Часы» соответствует не 30 минут, а один астрономический час."
+      },
+      {
+        "uz": "Yo'q: «Soatlar» qatoridagi bitta katak 4 soatga emas, bir astronomik soatga teng.",
+        "ru": "Нет: одной ячейке в ряду «Часы» соответствует не 4 часа, а один астрономический час."
+      }
+    ],
+    "p3-1": [
+      null,
+      {
+        "uz": "Yo'q: 2-bo'lim har 4 soatda emas, har soatda to'ldiriladi.",
+        "ru": "Нет: раздел поддерживающего ухода заполняют не каждые 4 часа, а каждый час."
+      },
+      {
+        "uz": "Yo'q: qo'llab-quvvatlovchi parvarish tug'ruqning butun davomida muntazam taklif qilinadi, 2-bo'lim esa har soatda to'ldiriladi.",
+        "ru": "Нет: меры поддерживающего ухода предлагают на всём протяжении родов, а раздел 2 заполняют каждый час, а не только при поступлении."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra 2-bo'lim har 30 daqiqada emas, har soatda to'ldiriladi.",
+        "ru": "Нет: по протоколу раздел 2 заполняют не каждые 30 минут, а каждый час."
+      }
+    ],
+    "p3-2": [
+      null,
+      {
+        "uz": "Yo'q: hamroh uchun protokolda kritik ko'rsatkich yo'q («Нет»); 2-bo'limdagi yagona kritik ko'rsatkich — ayolning chalqancha yotishi.",
+        "ru": "Нет: для сопровождающего лица в протоколе критических показателей нет; единственный критический показатель раздела 2 — положение женщины на спине."
+      },
+      {
+        "uz": "Yo'q: og'riqsizlantirish uchun protokolda kritik ko'rsatkich yo'q («Нет»); 2-bo'limdagi yagona kritik ko'rsatkich — ayolning chalqancha yotishi.",
+        "ru": "Нет: для обезболивания в протоколе критических показателей нет; единственный критический показатель раздела 2 — положение женщины на спине."
+      },
+      {
+        "uz": "Yo'q: og'iz orqali suyuqlik qabul qilish uchun protokolda kritik ko'rsatkich yo'q («Нет»); 2-bo'limdagi yagona kritik ko'rsatkich — ayolning chalqancha yotishi.",
+        "ru": "Нет: для перорального приёма жидкости в протоколе критических показателей нет; единственный критический показатель раздела 2 — положение женщины на спине."
+      }
+    ],
+    "p3-3": [
+      null,
+      {
+        "uz": "Noto'g'ri: chalqancha holat — 2-bo'limdagi kritik ko'rsatkich; bunday holatda birinchi davrda ayolga erkin harakatlanish imkoniyatini taklif qilish kerak.",
+        "ru": "Неверно: положение на спине — критический показатель раздела 2; в этом случае в первом периоде родов женщине следует предложить возможность свободного перемещения."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra chalqancha holatda reja — birinchi davrda erkin harakatlanishni va har bir davrda holatni o'zi tanlashni taklif qilish.",
+        "ru": "Нет: по протоколу при положении на спине план — предложить свободное перемещение в первом периоде и самостоятельный выбор положения тела в каждом периоде родов."
+      }
+    ],
+    "p3-4": [
+      null,
+      {
+        "uz": "Noto'g'ri: hamroh uchun kritik ko'rsatkich bo'lmasa ham, «Yo'q» yoki «Rad etish» belgilansa, ayolga hamroh tanlash va taklif qilishni taklif etish kerak.",
+        "ru": "Неверно: хотя критических показателей для сопровождающего нет, при варианте «Нет» или «Отказ» следует предложить женщине выбрать и пригласить сопровождающее лицо."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra hamroh yo'q bo'lsa, rejada ayolga hamroh tanlash va taklif qilishni taklif etish ko'zda tutilgan.",
+        "ru": "Нет: по протоколу при отсутствии сопровождающего план — предложить женщине выбрать и пригласить сопровождающее лицо."
+      }
+    ],
+    "p3-5": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: chalqancha holat — kritik ko'rsatkich; protokol ayolga holatni o'zi tanlashni taklif qiladi (chap yonboshda, cho'nqayib, tizzada, hamroh yonida tik turib).",
+        "ru": "Нет: положение на спине — критический показатель; протокол предлагает женщине самостоятельно выбрать положение (на левом боку, на корточках, на коленях, стоя рядом с сопровождающим)."
+      }
+    ],
+    "p3-6": [
+      null,
+      {
+        "uz": "Yo'q: suyuqlik ichilmagan bo'lsa, reja — yengil ovqat va xohishga ko'ra suyuqlik tavsiya qilish; barcha ayollarga rutin vena ichiga infuziya tavsiya etilmaydi.",
+        "ru": "Нет: если жидкость не принималась, план — рекомендовать лёгкую пищу и жидкость по желанию; рутинные в/в инфузии всем роженицам не рекомендуются."
+      },
+      {
+        "uz": "Noto'g'ri: protokol ovqat va suyuqlikni taqiqlamaydi, aksincha yengil ovqat va xohishga ko'ra suyuqlik ichishni tavsiya qiladi.",
+        "ru": "Неверно: протокол не запрещает, а рекомендует роженице приём лёгкой пищи и употребление жидкости по желанию."
+      }
+    ],
+    "p4-1": [
+      null,
+      null,
+      {
+        "uz": "Yo'q: 140 /daq 110–159 me'yor oralig'ida; kritik — < 110 yoki ≥ 160 /daq.",
+        "ru": "Нет: 140 /мин входит в диапазон 110–159; критично < 110 или ≥ 160 /мин."
+      },
+      {
+        "uz": "Yo'q: 112 /daq 110–159 me'yor oralig'ida (110 dan past emas); kritik — < 110 yoki ≥ 160 /daq.",
+        "ru": "Нет: 112 /мин входит в диапазон 110–159 (не ниже 110); критично < 110 или ≥ 160 /мин."
+      }
+    ],
+    "p4-3": [
+      null,
+      {
+        "uz": "Yo'q: har 30 daqiqada YuUCh birinchi davrda tinglanadi; ikkinchi davrda — har 5 daqiqada.",
+        "ru": "Нет: каждые 30 минут ЧСС оценивают в первом периоде; во втором периоде — каждые 5 минут."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra YuUCh 110–159 bo'lsa, birinchi davrda har 30 daqiqada, ikkinchi davrda har 5 daqiqada tinglanadi.",
+        "ru": "Нет: по протоколу при ЧСС 110–159 её оценивают каждые 30 минут в первом периоде и каждые 5 минут во втором."
+      },
+      {
+        "uz": "Yo'q: protokolda 15 daqiqalik oraliq yo'q; ikkinchi davrda YuUCh har 5 daqiqada tinglanadi.",
+        "ru": "Нет: в протоколе интервал 15 минут не указан; во втором периоде ЧСС оценивают каждые 5 минут."
+      }
+    ],
+    "p4-4": [
+      null,
+      {
+        "uz": "Yo'q: YuUCh 10 soniya emas, kamida bir daqiqa tinglanadi — to'lg'oq paytida va u tugaganidan keyin kamida 30 soniya davomida.",
+        "ru": "Нет: аускультацию проводят не 10 секунд, а не менее одной минуты — во время схватки и не менее 30 секунд после её окончания."
+      },
+      {
+        "uz": "Yo'q: tinglash faqat to'lg'oq paytida emas, u tugaganidan keyin ham kamida 30 soniya davom ettiriladi (jami kamida 1 daqiqa).",
+        "ru": "Нет: аускультацию проводят не только во время схватки, но и продолжают не менее 30 секунд после её окончания (в целом не менее 1 минуты)."
+      }
+    ],
+    "p4-5": [
+      null,
+      {
+        "uz": "Yo'q: erta deceleratsiyalar («Ран») kritik emas; kritik ko'rsatkich — faqat kech deceleratsiyalar («Поз»).",
+        "ru": "Нет: ранние децелерации («Ран») не являются критическим показателем; критично — поздние («Поз»)."
+      },
+      {
+        "uz": "Yo'q: o'zgaruvchan deceleratsiyalar («Вар») kritik ko'rsatkich sifatida keltirilmagan; kritik — kech deceleratsiyalar («Поз»).",
+        "ru": "Нет: вариабельные децелерации («Вар») не указаны как критический показатель; критично — поздние («Поз»)."
+      }
+    ],
+    "p4-6": [
+      null,
+      null,
+      {
+        "uz": "Yo'q: butun pardalar (Ц) kritik emas; bunda qog'onoq suvi keyingi qin tekshiruvida 4 soatdan keyin baholanadi. Kritik — M+++ va qon (К).",
+        "ru": "Нет: целые оболочки (Ц) не критичны; в этом случае амниотическую жидкость оценивают при следующем влагалищном исследовании через 4 часа. Критично — M+++ и кровь (К)."
+      },
+      {
+        "uz": "Yo'q: tiniq suv (C) kritik emas; bunda qog'onoq suvi keyingi qin tekshiruvida 4 soatdan keyin baholanadi. Kritik — M+++ va qon (К).",
+        "ru": "Нет: светлые воды (C) не критичны; в этом случае жидкость оценивают при следующем влагалищном исследовании через 4 часа. Критично — M+++ и кровь (К)."
+      }
+    ],
+    "p4-7": [
+      null,
+      {
+        "uz": "Yo'q: qog'onoq suvida qon (К) — kritik ko'rsatkich; u ko'pincha yo'ldosh ko'chishi, yo'ldosh yoki tomirlar oldinda kelishi yoki bachadon yorilishida kuzatiladi.",
+        "ru": "Нет: кровь в водах (К) — критический показатель; она часто наблюдается при отслойке плаценты, предлежании плаценты или сосудов, разрыве матки."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra qog'onoq suvining qon bilan bo'yalishi ko'pincha yo'ldosh ko'chishi, yo'ldosh yoki tomirlar oldinda kelishi va bachadon yorilishida kuzatiladi.",
+        "ru": "Нет: по протоколу окрашивание амниотической жидкости кровью часто наблюдается при отслойке плаценты, предлежании плаценты, предлежании сосудов или разрыве матки."
+      }
+    ],
+    "p4-8": [
+      null,
+      null,
+      {
+        "uz": "Yo'q: ensaning old ko'rinishi (A) kritik emas; bunda homila joylashuvi keyingi qin tekshiruvida 4 soatdan keyin qayta baholanadi.",
+        "ru": "Нет: передний вид (A) не критичен; в этом случае положение плода повторно оценивают при следующем влагалищном исследовании через 4 часа."
+      }
+    ],
+    "p4-9": [
+      null,
+      {
+        "uz": "Yo'q: + (suyaklar choklar sohasida yaqinlashgan) kritik emas — 0 dan ++ gacha konfiguratsiya, odatda, me'yor belgisi; kritik — +++.",
+        "ru": "Нет: + (кости сближены в области швов) не критично — конфигурация от 0 до ++, как правило, признак нормы; критично +++."
+      },
+      {
+        "uz": "Yo'q: 0 — konfiguratsiya yo'q; 0 dan ++ gacha odatda me'yor, kritik ko'rsatkich — +++.",
+        "ru": "Нет: 0 — конфигурация отсутствует; от 0 до ++ — как правило, норма, критический показатель — +++."
+      }
+    ],
+    "p5-1": [
+      null,
+      {
+        "uz": "Yo'q: AQB 128/84 kritik emas — sistolik bosim uchun kritik < 80 yoki ≥ 140, diastolik uchun ≥ 90.",
+        "ru": "Нет: АД 128/84 не критично — для САД критично < 80 или ≥ 140, для ДАД — ≥ 90."
+      },
+      null,
+      {
+        "uz": "Yo'q: puls 96 /daq kritik emas — kritik ko'rsatkich < 60 yoki ≥ 120 /daq.",
+        "ru": "Нет: пульс 96 /мин не критичен — критично < 60 или ≥ 120 /мин."
+      }
+    ],
+    "p5-2": [
+      null,
+      {
+        "uz": "Yo'q: diastolik bosim uchun kritik chegara ≥ 100 emas, ≥ 90 mm sim.ust.",
+        "ru": "Нет: критический порог ДАД — не ≥ 100, а ≥ 90 мм рт.ст."
+      },
+      {
+        "uz": "Yo'q: diastolik bosim uchun kritik chegara ≥ 80 emas, ≥ 90 mm sim.ust.; DAB < 90 bo'lsa, u har 4 soatda baholanadi.",
+        "ru": "Нет: критический порог ДАД — не ≥ 80, а ≥ 90 мм рт.ст.; при ДАД < 90 его оценивают каждые 4 часа."
+      },
+      {
+        "uz": "Yo'q: < 60 — bu puls uchun kritik chegara; diastolik bosim uchun kritik ko'rsatkich — ≥ 90 mm sim.ust.",
+        "ru": "Нет: < 60 — критический порог для пульса; для ДАД критический показатель — ≥ 90 мм рт.ст."
+      }
+    ],
+    "p5-3": [
+      null,
+      {
+        "uz": "Yo'q: ko'rsatkichlar me'yorda bo'lsa, puls, AQB va harorat har soatda emas, har 4 soatda o'lchanadi.",
+        "ru": "Нет: при нормальных значениях пульс, АД и температуру оценивают не каждый час, а каждые 4 часа."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra me'yoriy puls, AQB va harorat har 4 soatda baholanadi.",
+        "ru": "Нет: по протоколу при нормальных значениях пульс, АД и температуру оценивают каждые 4 часа."
+      }
+    ],
+    "p5-4": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra arterial bosim chalqancha yotgan holatda emas, o'tirgan holatda o'lchanadi.",
+        "ru": "Нет: по протоколу АД измеряют не лёжа на спине, а в положении сидя."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra arterial bosim tik turgan holatda emas, o'tirgan holatda o'lchanadi.",
+        "ru": "Нет: по протоколу АД измеряют не стоя, а в положении сидя."
+      }
+    ],
+    "p5-5": [
+      null,
+      {
+        "uz": "Yo'q: sistolik bosim < 80 — kritik ko'rsatkich; bu gemorragik shok, septik shok, yashirin yoki aniq qon ketish belgisi bo'lishi mumkin.",
+        "ru": "Нет: САД < 80 — критический показатель; оно может быть признаком геморрагического шока, септического шока, скрытого либо явного кровотечения."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra past sistolik bosim gemorragik shok, septik shok, yashirin yoki aniq qon ketish belgisi bo'lishi mumkin.",
+        "ru": "Нет: по протоколу низкое САД может быть признаком геморрагического шока, септического шока, скрытого либо явного кровотечения."
+      }
+    ],
+    "p5-6": [
+      null,
+      {
+        "uz": "Yo'q: oqsil «+» kritik emas — me'yor deb talqin qilinadi va tug'ruq davomida qayta baholanmaydi; kritik — Б++ va undan yuqori.",
+        "ru": "Нет: белок «+» не критичен — интерпретируется как норма, дальнейшая оценка в родах не проводится; критично — Б++ и выше."
+      }
+    ],
+    "p5-7": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra harorat og'izda emas, qo'ltiq ostida o'lchanadi.",
+        "ru": "Нет: по протоколу температуру измеряют не во рту, а в подмышечной впадине."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra harorat quloqda emas, qo'ltiq ostida o'lchanadi.",
+        "ru": "Нет: по протоколу температуру измеряют не в ухе, а в подмышечной впадине."
+      }
+    ],
+    "p6-1": [
+      null,
+      null,
+      {
+        "uz": "Yo'q: 10 daqiqada 4 ta to'lg'oq kritik emas (3–5 oralig'ida); kritik — ≤ 2 yoki > 5.",
+        "ru": "Нет: 4 схватки за 10 минут не критично (диапазон 3–5); критично ≤ 2 или > 5."
+      },
+      {
+        "uz": "Yo'q: 10 daqiqada 3 ta to'lg'oq kritik emas (3–5 oralig'ida); kritik — ≤ 2 yoki > 5.",
+        "ru": "Нет: 3 схватки за 10 минут не критично (диапазон 3–5); критично ≤ 2 или > 5."
+      }
+    ],
+    "p6-2": [
+      null,
+      {
+        "uz": "Noto'g'ri: 10 daqiqada ≤ 2 to'lg'oqda avval keyingi 10 daqiqada qayta sanab tasdiqlanadi; tasdiqlansa — katta shifokorga xabar berilib, vaziyat baholanadi.",
+        "ru": "Неверно: при ≤ 2 схватках за 10 минут сначала уточняют их количество подсчётом в течение следующих 10 минут; при подтверждении — уведомляют старшего врача и оценивают ситуацию."
+      },
+      {
+        "uz": "Yo'q: 10 daqiqada 2 ta to'lg'oq — kritik ko'rsatkich (≤ 2); keyingi 10 daqiqada qayta sanash kerak.",
+        "ru": "Нет: 2 схватки за 10 минут — критический показатель (≤ 2); необходимо уточнить подсчётом в течение следующих 10 минут."
+      }
+    ],
+    "p6-3": [
+      null,
+      {
+        "uz": "Yo'q: ≥ 5 soat — ochilish 6 sm uchun chegara; 7 sm da kritik — ≥ 3 soat.",
+        "ru": "Нет: ≥ 5 ч — порог для раскрытия 6 см; для 7 см критично ≥ 3 ч."
+      },
+      {
+        "uz": "Yo'q: ≥ 2 soat — ochilish 9 sm uchun chegara; 7 sm da kritik — ≥ 3 soat.",
+        "ru": "Нет: ≥ 2 ч — порог для раскрытия 9 см; для 7 см критично ≥ 3 ч."
+      },
+      {
+        "uz": "Yo'q: ≥ 6 soat — ochilish 5 sm uchun chegara; 7 sm da kritik — ≥ 3 soat.",
+        "ru": "Нет: ≥ 6 ч — порог для раскрытия 5 см; для 7 см критично ≥ 3 ч."
+      }
+    ],
+    "p6-5": [
+      null,
+      {
+        "uz": "Yo'q: birinchi tug'ayotgan ayolda ikkinchi davr ≥ 3 soat davom etishi kritik ko'rsatkich, ya'ni chora ko'rish kerak.",
+        "ru": "Нет: у нерожавших второй период ≥ 3 ч — критический показатель, требуется принятие мер."
+      },
+      {
+        "uz": "Yo'q: ikkinchi davr uchun kritik chegara birinchi tug'ayotganlarda ≥ 3 soat, qayta tug'ayotganlarda ≥ 2 soat — ya'ni ikkalasi uchun ham.",
+        "ru": "Нет: критический показатель для второго периода — ≥ 3 ч у нерожавших и ≥ 2 ч у повторнородящих, т.е. для обеих групп."
+      }
+    ],
+    "p6-6": [
+      null,
+      {
+        "uz": "Yo'q: tug'ruq kutilganidek kechsa, ochilish har soatda emas, har 4 soatda aniqlanadi (boshqacha ko'rsatma bo'lmasa).",
+        "ru": "Нет: если роды развиваются ожидаемо, раскрытие определяют не каждый час, а каждые 4 часа, если не показано иное."
+      },
+      {
+        "uz": "Yo'q: tug'ruq kutilganidek kechsa, ochilish har 2 soatda emas, har 4 soatda aniqlanadi; 4 soatdan oldin qayta qin tekshiruvi faqat qaror uchun muhim ma'lumot bersa ruxsat etiladi.",
+        "ru": "Нет: раскрытие определяют каждые 4 часа, а не каждые 2; повторное исследование ранее 4 часов допускается, если оно даст важную для принятия решений информацию."
+      }
+    ],
+    "p6-7": [
+      null,
+      {
+        "uz": "Yo'q: homila tushishi uchun chegaraviy qiymat yo'q — u har bir holatda individual; 3/5 kritik ko'rsatkich emas.",
+        "ru": "Нет: пороговых значений для продвижения плода нет — они в каждом случае индивидуальны; 3/5 не является критическим показателем."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra homila tushishi uchun chegaraviy qiymat yo'q, chunki u har bir holatda individual; 0/5 kritik ko'rsatkich emas.",
+        "ru": "Нет: по протоколу пороговых значений для продвижения плода нет, так как они в каждом случае индивидуальны; 0/5 не является критическим показателем."
+      }
+    ],
+    "p6-8": [
+      null,
+      {
+        "uz": "Yo'q: barcha ayollarga rutin vena ichiga infuziya tavsiya etilmaydi — u harakatchanlikni kamaytiradi va ortiqcha xarajatga olib keladi; past xavfli ayollarga suyuqlikni o'zi ichish taklif qilinadi.",
+        "ru": "Нет: рутинные в/в инфузии всем роженицам не рекомендуются — они снижают подвижность и ненужно повышают затраты; женщинам низкого риска предлагают самостоятельно пить."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra past xavfli ayollarga vena ichiga infuziya faqat ko'rsatma bo'yicha o'tkaziladi; ikkinchi davr uchun majburiylik ko'zda tutilmagan.",
+        "ru": "Нет: по протоколу роженицам низкого риска в/в введение проводится только по показаниям; обязательность во втором периоде не предусмотрена."
+      }
+    ],
+    "p6-9": [
+      null,
+      {
+        "uz": "Yo'q: oksitotsin yuborilgan bo'lsa, faqat «ha/yo'q» emas, doza (Ed/l) va tezlik (tomchi/daq) hamda har 60 daqiqada yuborilgan miqdor yoziladi.",
+        "ru": "Нет: при введении окситоцина указывают не только «да/нет», а дозировку (Ед/л), скорость (кап./мин) и количество за каждые 60 минут."
+      },
+      {
+        "uz": "Yo'q: oksitotsin umumiy ml bilan emas, doza Ed/l da va tezlik tomchi/daq da yoziladi, shuningdek har 60 daqiqada yuborilgan miqdor ko'rsatiladi.",
+        "ru": "Нет: окситоцин записывают не общим объёмом в мл, а дозировкой в Ед/л и скоростью в кап./мин, с указанием количества за каждые 60 минут."
+      }
+    ],
+    "p6-10": [
+      null,
+      {
+        "uz": "Noto'g'ri: 7-bo'lim ayol va hamroh bilan doimiy muloqotni ta'minlash uchun; ayolning qaror qabul qilishdagi ishtiroki va xabardor qaror qabul qilish imkoniyati juda muhim.",
+        "ru": "Неверно: раздел 7 призван обеспечить постоянную коммуникацию с роженицей и сопровождающим; крайне важно участие женщины в принятии решений и возможность информированного решения."
+      }
+    ]
+  },
+  "evidence": {
+    "p1-6": "L232: «Более одной трети случаев материнской смертности, половина случаев мертворождения и четверть всех случаев смерти новорожденных вызваны осложнениями»",
+    "p2-1": "L288-290: «с начала активной фазы первого периода родов (раскрытие шейки матки 5 см или более), независимо от числа родов и состояния оболочек»",
+    "p2-2": "L291-293: «в латентной фазе ... заполнение партограммы не проводят, проведение стандартного мониторинга за состоянием матери и плода ... является обязательным»",
+    "p2-3": "L296-304: «Партограмма представлена 7-ю разделами» (перечень 1–7)",
+    "p2-5": "L355-357: «должны обозначить кружком любые параметры, которые отвечают критериям столбца «Критические показатели»»",
+    "p2-6": "L351-354: «если параметры ... в рамках пороговых значений ... ход родов ... соответствуют норме, и проведения медицинских вмешательств не требуется»",
+    "p2-7": "L305-311: раздел 1 — число родов, начало родовой деятельности, дата диагноза активной фазы, дата и время разрыва оболочек, факторы риска; L591-593: базальная ЧСС — раздел 3",
+    "p2-8": "L341-342: «во втором ряду («Часы») ... Одной ячейке соответствует один астрономический час»",
+    "p3-1": "L510: «необходимо каждый час заполнять раздел, посвященный мерам поддерживающего ухода»",
+    "p3-2": "L523-553: для сопровождающего, обезболивания, жидкости «Критические показатели: Нет»; положение — «Спина = на Спине»",
+    "p3-3": "L550-561: «В случае если выбран вариант «На спине», в течение первого периода ... предложить ... свободного перемещения»",
+    "p3-4": "L525-529: «В случае если выбран вариант «Нет» или «Отказ», следует предложить женщине выбрать и пригласить сопровождающее лицо»",
+    "p3-5": "L557-561: «предложить женщине самостоятельно выбрать положение тела (на левом боку, на корточках, на коленях, стоя рядом с сопровождающим лицом)»",
+    "p3-6": "L544-548: «следует рекомендовать роженице прием легкой пищи и употребление жидкости по желанию»; L1035-1037: рутинные в/в инфузии не рекомендуются",
+    "p4-1": "L592-593: «Критические показатели: <110, ≥160 / мин»; L599-600: «в диапазоне от 110 до 159»",
+    "p4-3": "L602-606: «каждые 30 минут в течение первого периода родов и каждые 5 минут в течение второго периода»",
+    "p4-4": "L593-603: «аускультацию ЧСС плода на протяжении как минимум одной минуты ... во время схватки, продолжать ... не менее 30 секунд по окончании»",
+    "p4-5": "L612-615: «Критические показатели: Поз = поздние»; обозначения Ран, Поз, Вар (L620-622)",
+    "p4-6": "L632-647: «Критические показатели: M+++ ..., К = кровь»; при целых оболочках или светлой жидкости — оценить «через 4 часа»",
+    "p4-7": "L650-656: «Окрашивание амниотической жидкости кровью часто наблюдается при отслойке плаценты, предлежании плаценты, предлежании сосудов или разрыве матки»",
+    "p4-8": "L660-673: «Критические показатели: P = задний вид ..., T = поперечное стояние»; при переднем виде — «повторно оценить ... через 4 часа»",
+    "p4-9": "L697-703: «Критические показатели: +++»; «Если конфигурация головки от 0 до ++, то, как правило, это признак нормы»",
+    "p5-1": "L745: пульс «<60, ≥120»; L763: САД «<80, ≥140»; L780: ДАД «≥90»; L791-792: температура «<35,0, ≥37,5»",
+    "p5-2": "L779-782: ДАД «Критические показатели: ≥90»; «Если величина ДАД <90, оценку ... каждые 4 часа»; L745: пульс «<60»",
+    "p5-3": "L750-755, L766-769, L797-801: при нормальных значениях пульс, САД/ДАД, температуру оценивают «каждые 4 часа»",
+    "p5-4": "L762-765, L779-782: «Провести измерение артериального давления в положении сидя»",
+    "p5-5": "L765-771: «Низкое САД может быть признаком геморрагического шока, септического шока, скрытого либо явного кровотечения»",
+    "p5-6": "L805, L813-821: «Критические показатели: Б++, A++»; «на уровне +, следует интерпретировать это как норму и не проводить дальнейшую оценку»",
+    "p5-7": "L790-793: «Измерить температуру в Подмышечной впадине»",
+    "p6-1": "L855-858: «Критические показатели: ≤2, >5»; L868-870: «Если количество схваток в течение 10 минут составляет 3-5 ...»",
+    "p6-2": "L857-866: «необходимо уточнить их количество путем подсчета в течение следующих 10 минут. Если ... подтверждена, ... уведомить старшего врача»",
+    "p6-3": "L898-923: «5 см = ≥6 ч; 6 см = ≥5 ч; 7 см = ≥3 ч; 8 см = ≥2,5 ч; 9 см = ≥2 ч»",
+    "p6-5": "L924-930: «Критические показатели для второго периода родов: ≥3 ч - у нерожавших; ≥2 ч – у повторнородящих»",
+    "p6-6": "L904-920: «степень раскрытия ... определять с периодичностью каждые 4 часа, если не показано иное»; ранее 4 ч — если даст важную информацию",
+    "p6-7": "L940-944: «Пороговых значений для данного параметра не имеется, так как они в каждом случае индивидуальны»",
+    "p6-8": "L1032-1042: в/в инфузии снижают подвижность, повышают затраты; «рутинная практика ... не может быть рекомендована»; «только по показаниям»",
+    "p6-9": "L1019-1022: «указать дозировку окситоцина в Ед/л и скорость введения в кап./мин. ... количество препарата, вводимого за каждые 60 минут»",
+    "p6-10": "L1045-1046, L1061-1062: «постоянной коммуникации с роженицей»; «Крайне важно обеспечить участие женщины в процессе принятия решений»"
+  },
+  "uncertain": {
+    "p3-4": "Вариант «Вызвать старшего врача»: протокол ничего не говорит о вызове врача при отсутствии сопровождающего; заметка лишь повторяет план протокола.",
+    "p5-5": "Вариант «Только волнения»: протокол не обсуждает волнение; заметка лишь повторяет перечень причин из протокола.",
+    "p4-7": "Вариант «Только гипоксия плода»: протокол связывает дистресс плода с густым меконием, а не с кровью; заметка лишь повторяет перечень причин.",
+    "p6-8": "Вариант «Обязательны только во II периоде»: протокол не упоминает отдельно II период; заметка только повторяет «только по показаниям»."
+  }
+}

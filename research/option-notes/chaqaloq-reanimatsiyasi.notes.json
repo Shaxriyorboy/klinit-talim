@@ -1,0 +1,421 @@
+{
+  "notes": {
+    "r1-1": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra bolalarning taxminan 85% i aralashuvsiz o'z-o'zidan nafas oladi, yana 10% i boshlang'ich choralarga javob beradi.",
+        "ru": "Нет: по протоколу примерно у 85% детей дыхание возникает спонтанно, ещё 10% реагируют на начальные меры."
+      },
+      {
+        "uz": "Yo'q: o'z-o'zidan nafas oluvchilar taxminan 85%; yana 10% i boshlang'ich choralarga, ~5% i musbat bosimli ventilyatsiyaga muhtoj.",
+        "ru": "Нет: спонтанно дышат около 85%; ещё 10% нуждаются в начальных мерах, ~5% — в вентиляции под положительным давлением."
+      },
+      {
+        "uz": "Yo'q: protokol bo'yicha bu ko'rsatkich taxminan 85%; qolganlarning 10% i boshlang'ich choralarga javob beradi, ~5% i ventilyatsiya oladi.",
+        "ru": "Нет: по протоколу этот показатель ~85%; из остальных 10% отвечают на начальные меры, ~5% получают вентиляцию."
+      }
+    ],
+    "r1-2": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Noto'g'ri: protokolda tirik tug'ilish belgilari — nafas, yurak urishi, ixtiyoriy mushak harakatlari va kindik pulsatsiyasi; teri rangi ular qatoriga kirmaydi.",
+        "ru": "Неверно: признаки живорождения по протоколу — дыхание, сердцебиение, произвольные движения мускулатуры и пульсация пуповины; цвет кожи в их число не входит."
+      }
+    ],
+    "r1-3": [
+      null,
+      {
+        "uz": "Yo'q: protokol reanimatsiyani ko'rsatma bo'lganda gestatsiya muddati ≥ 22 hafta va kamida bitta tirik tug'ilish belgisi bo'lgan barcha chaqaloqlarga o'tkazishni talab qiladi.",
+        "ru": "Нет: протокол требует проводить реанимацию при наличии показаний всем новорождённым с ГВ ≥ 22 недель и хотя бы одним признаком живорождения."
+      },
+      {
+        "uz": "Yo'q: chegara muddatdagi tug'ilish emas — reanimatsiya ≥ 22 haftalik, kamida bitta tirik tug'ilish belgisi bor chaqaloqlarga ko'rsatiladi.",
+        "ru": "Нет: порог — не доношенность: реанимация показана детям с ГВ ≥ 22 недель при хотя бы одном признаке живорождения."
+      }
+    ],
+    "r1-4": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Noto'g'ri: 4 savolga onaning qon guruhi kirmaydi; to'rtinchi savol — qo'shimcha xavf omillari bormi.",
+        "ru": "Неверно: группа крови матери не входит в 4 вопроса; четвёртый вопрос — есть ли дополнительные факторы риска."
+      }
+    ],
+    "r1-5": [
+      null,
+      {
+        "uz": "Yo'q: uchala savolga «ha» javobida chaqaloq onasi bilan qoladi; reanimatsiya stoliga faqat birorta javob «yo'q» bo'lganda o'tkaziladi.",
+        "ru": "Нет: при ответе «да» на все 3 вопроса ребёнок остаётся с матерью; на реанимационный стол переносят, только если хотя бы один ответ «нет»."
+      },
+      {
+        "uz": "Yo'q: rutin sanatsiya tavsiya etilmaydi — u bradikardiya chaqirishi mumkin; so'rib olish faqat nafas yo'llari obstruksiyasida kerak.",
+        "ru": "Нет: рутинная санация не рекомендуется — она может вызвать брадикардию; отсасывание необходимо только при обструкции дыхательных путей."
+      }
+    ],
+    "r1-6": [
+      null,
+      {
+        "uz": "Yo'q: uch savoldan birortasiga «yo'q» javobi bo'lsa, chaqaloqni nurli issiqlik manbai ostidagi reanimatsiya stoliga o'tkazish kerak.",
+        "ru": "Нет: если ответ на любой из трёх вопросов «нет», ребёнка следует перенести на реанимационный стол под источник лучистого тепла."
+      }
+    ],
+    "r1-7": [
+      null,
+      {
+        "uz": "Yo'q: mekoniyli suv qarshi ko'rsatma emas — protokolda u reanimatsiya xavf omili, bunday nofaol chaqaloqlarga kengaytirilgan reanimatsiya kerak bo'lishi mumkin.",
+        "ru": "Нет: меконий в водах — не противопоказание, а фактор риска; такие неактивные дети могут нуждаться в расширенной реанимации."
+      },
+      {
+        "uz": "Yo'q: kesar kesish qarshi ko'rsatma emas (shoshilinch KS — xavf omili); qarshi ko'rsatma — tasdiqlangan muddat < 22 hafta va vazn < 500 g, hayotga mos kelmaydigan og'ir nuqsonlar.",
+        "ru": "Нет: КС — не противопоказание (экстренное КС — фактор риска); противопоказание — подтверждённый ГВ < 22 недель и масса < 500 г, ВПР, несовместимые с жизнью."
+      }
+    ],
+    "r2-1": [
+      null,
+      {
+        "uz": "Yo'q: «oltin daqiqa» taxminan 60 soniya — shu vaqtda boshlang'ich qadamlar, qayta baholash va kerak bo'lsa boshlang'ich ventilyatsiya bajariladi.",
+        "ru": "Нет: «золотая минута» — приблизительно 60 секунд на начальные шаги, повторную оценку и при необходимости начальную вентиляцию."
+      },
+      {
+        "uz": "Yo'q: protokol boshlang'ich qadamlar, qayta baholash va boshlang'ich ventilyatsiya uchun taxminan 60 soniya ajratadi.",
+        "ru": "Нет: протокол отводит на начальные шаги, повторную оценку и начальную вентиляцию приблизительно 60 секунд."
+      },
+      {
+        "uz": "Yo'q: «oltin daqiqa» — taxminan 60 soniya, 10 daqiqa emas.",
+        "ru": "Нет: «золотая минута» — приблизительно 60 секунд, а не 10 минут."
+      }
+    ],
+    "r2-2": [
+      null,
+      {
+        "uz": "Yo'q: harorat 36,5–37,5 °C da ushlab turiladi; ≤ 36,0 °C — gipotermiya, undan qochish kerak.",
+        "ru": "Нет: температуру поддерживают в пределах 36,5–37,5 °C; ≤ 36,0 °C — гипотермия, её следует избегать."
+      },
+      {
+        "uz": "Yo'q: maqsadli diapazon 36,5–37,5 °C; protokol gipertermiyadan (> 38,0 °C) qochishni ham talab qiladi.",
+        "ru": "Нет: целевой диапазон 36,5–37,5 °C; протокол также требует избегать гипертермии (> 38,0 °C)."
+      }
+    ],
+    "r2-3": [
+      null,
+      {
+        "uz": "Yo'q: tug'ruq zalidagi harorat 23–25 °C bo'lishi kerak.",
+        "ru": "Нет: температура в родильном зале должна составлять 23–25 °C."
+      },
+      {
+        "uz": "Yo'q: standart — 23–25 °C; 25 °C dan yuqori harorat faqat GV ≤ 28 hafta bo'lgan chaqaloqlar uchun talab qilinadi.",
+        "ru": "Нет: стандарт — 23–25 °C; температура > 25 °C требуется только для младенцев с ГВ ≤ 28 недель."
+      }
+    ],
+    "r2-4": [
+      null,
+      {
+        "uz": "Yo'q: quritish va yopish GV > 32 haftalik chaqaloqlar uchun; ≤ 32 haftada quritmasdan, yuzdan tashqari polietilen plyonka bilan to'liq yopiladi va nurli issiqlik ishlatiladi.",
+        "ru": "Нет: обсушивание и укрывание — для детей с ГВ > 32 недель; при ≤ 32 неделях полностью накрывают полиэтиленовой плёнкой (кроме лица), не обсушивая, и используют лучистое тепло."
+      },
+      {
+        "uz": "Yo'q: protokol ≤ 32 haftalik chaqaloqni quritmasdan polietilen plyonka bilan (yuzdan tashqari) yopish va nurli issiqlikdan foydalanishni tavsiya qiladi.",
+        "ru": "Нет: протокол рекомендует для ГВ ≤ 32 недель, не обсушивая, полностью накрыть полиэтиленовой плёнкой (кроме лица) и использовать лучистое тепло."
+      }
+    ],
+    "r2-5": [
+      null,
+      {
+        "uz": "Yo'q: ko'pchilik chaqaloqlarga kindikni darhol qisish kerak emas; uni kamida 60 soniyadan keyin, ideal holda o'pka ventilyatsiyasidan keyin qisish tavsiya etiladi.",
+        "ru": "Нет: большинству новорождённых не требуется незамедлительное пережатие; пуповину рекомендуется пережимать не ранее чем через 60 с, в идеале — после вентиляции лёгких."
+      },
+      {
+        "uz": "Yo'q: protokol kindikni kamida 60 soniyadan keyin, ideal holda o'pka ventilyatsiyasidan keyin qisishni tavsiya qiladi.",
+        "ru": "Нет: протокол рекомендует пережимать пуповину не менее чем через 60 с, в идеале — после вентиляции лёгких."
+      }
+    ],
+    "r2-6": [
+      null,
+      {
+        "uz": "Yo'q: protokol sababi vaqt emas — sanatsiya reanimatsiya paytida bradikardiya chaqirishi mumkin, shuning uchun faqat obstruksiyada o'tkaziladi.",
+        "ru": "Нет: причина по протоколу не во времени — санация может вызвать брадикардию во время реанимации, поэтому её проводят только при обструкции."
+      },
+      {
+        "uz": "Yo'q: protokol jihoz narxini emas, sanatsiya bradikardiya chaqirishi mumkinligini ko'rsatadi.",
+        "ru": "Нет: протокол указывает не на стоимость оборудования, а на то, что санация может вызвать брадикардию."
+      }
+    ],
+    "r2-7": [
+      null,
+      {
+        "uz": "Yo'q: nofaol chaqaloqlarda rutin laringoskopiya va aspiratsiya ventilyatsiyani kechiktiradi va tavsiya etilmaydi; ventilyatsiyani imkon qadar tez boshlash kerak.",
+        "ru": "Нет: у неактивных младенцев рутинная ларингоскопия и аспирация отсрочивают вентиляцию и не рекомендуются; начать вентиляцию нужно как можно скорее."
+      }
+    ],
+    "r2-8": [
+      null,
+      {
+        "uz": "Yo'q: kurak ostiga yostiq emas, ~2 sm qalinlikda buklangan sochiq yoki adyolcha qo'yiladi.",
+        "ru": "Нет: под лопатки кладут не подушку, а полотенце или одеяльце, сложенное до толщины 2 см."
+      },
+      {
+        "uz": "Yo'q: boshning neytral holatini saqlash uchun kurak ostiga ~2 sm qalinlikda buklangan sochiq yoki adyolcha qo'yish kerak.",
+        "ru": "Нет: для сохранения нейтрального положения головы под лопатки следует положить полотенце или одеяльце, сложенное до толщины 2 см."
+      }
+    ],
+    "r3-1": [
+      null,
+      {
+        "uz": "Yo'q: yurak massaji ventilyatsiyadan keyin, 30 soniya samarali ventilyatsiyaga qaramay YuUCh < 60 bo'lganda boshlanadi; hozir pulsoksimetr qo'yib, musbat bosimli ventilyatsiyaga o'tish kerak.",
+        "ru": "Нет: НМС начинают только при ЧСС < 60 несмотря на 30 секунд эффективной ИВЛ; сейчас нужно надеть пульсоксиметр и перейти к вентиляции под положительным давлением."
+      },
+      {
+        "uz": "Yo'q: boshlang'ich qadamlardan keyin gasping yoki YuUCh < 100 bo'lsa, stimulyatsiyani davom ettirmay, musbat bosimli ventilyatsiyaga o'tiladi.",
+        "ru": "Нет: если после начальных шагов гаспинг или ЧСС < 100, не продолжают стимуляцию, а переходят к вентиляции под положительным давлением."
+      }
+    ],
+    "r3-2": [
+      null,
+      {
+        "uz": "Yo'q: protokol datchikni o'ng bilakka (preduktal ko'rsatkichlar uchun) qo'yishni talab qiladi.",
+        "ru": "Нет: протокол требует крепить датчик на правое предплечье (для преддуктальных показателей)."
+      },
+      {
+        "uz": "Yo'q: pulsoksimetr datchigi o'ng bilakka qo'yiladi — maqsadli ko'rsatkichlar preduktal SpO2 bo'yicha.",
+        "ru": "Нет: датчик пульсоксиметра крепят на правое предплечье — целевые показатели даны по преддуктальной SpO2."
+      }
+    ],
+    "r3-3": [
+      null,
+      {
+        "uz": "Yo'q: 65% — 2-daqiqadagi maqsad; 5-daqiqada preduktal SpO2 85% bo'lishi kerak.",
+        "ru": "Нет: 65% — цель на 2-й минуте; на 5-й минуте преддуктальная SpO2 должна быть 85%."
+      },
+      {
+        "uz": "Yo'q: 90% — 10-daqiqadagi maqsad; 5-daqiqada 85%.",
+        "ru": "Нет: 90% — цель на 10-й минуте; на 5-й минуте — 85%."
+      },
+      {
+        "uz": "Yo'q: 5-daqiqadagi maqsad 85%; 95% dan oshsa, chala tug'ilganlarda kislorod kamaytiriladi.",
+        "ru": "Нет: цель на 5-й минуте — 85%; при сатурации выше 95% у недоношенных подачу кислорода снижают."
+      }
+    ],
+    "r3-4": [
+      null,
+      {
+        "uz": "Yo'q: ≥ 35 haftalik chaqaloqlarda havodan (21%) boshlanadi; 100% kislorod yurak massaji paytida ko'rsatilgan.",
+        "ru": "Нет: у детей с ГВ ≥ 35 недель начинают с воздуха (21%); 100% кислород показан при проведении НМС."
+      },
+      {
+        "uz": "Yo'q: ≥ 35 haftalik chaqaloqlarda ventilyatsiya havodan (21%) boshlanadi, keyin konsentratsiya SpO2 bo'yicha o'zgartiriladi.",
+        "ru": "Нет: у детей с ГВ ≥ 35 недель вентиляцию начинают с воздуха (21%), затем концентрацию меняют по SpO2."
+      }
+    ],
+    "r3-5": [
+      null,
+      {
+        "uz": "Yo'q: ventilyatsiya chastotasi 40–60 /daq bo'lishi kerak; qulaylik uchun «vals» ritmi ishlatiladi.",
+        "ru": "Нет: частота ИВЛ должна составлять 40–60 /мин; для удобства используют ритм «вальса»."
+      },
+      {
+        "uz": "Yo'q: protokol bo'yicha chastota 40–60 /daq, «vals» ritmida.",
+        "ru": "Нет: по протоколу частота — 40–60 /мин в ритме «вальса»."
+      }
+    ],
+    "r3-6": [
+      null,
+      {
+        "uz": "Yo'q: barcha chaqaloqlarda PIP 20 sm suv ust. dan boshlanadi; muddatida tug'ilgan chaqaloqlarda keyinchalik ≥ 30 gacha oshirish kerak bo'lishi mumkin.",
+        "ru": "Нет: всем новорождённым ИВЛ начинают с PIP 20 см вод. ст.; у доношенных затем может потребоваться увеличение до ≥ 30."
+      },
+      {
+        "uz": "Yo'q: boshlang'ich PIP 20 sm suv ust., u klinik samaraga qarab o'zgartiriladi.",
+        "ru": "Нет: начальное PIP — 20 см вод. ст., его меняют в зависимости от клинического эффекта."
+      }
+    ],
+    "r3-7": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Noto'g'ri: MR SODI uchta sababi — niqobning zich yopishmasligi, nafas yo'llarining to'silishi va bosim yetishmasligi; xona harorati ular qatorida yo'q.",
+        "ru": "Неверно: три причины неэффективной вентиляции (МР СОДИ) — неплотное прилегание маски, заблокированные дыхательные пути и недостаточное давление; температура помещения к ним не относится."
+      }
+    ],
+    "r3-8": [
+      null,
+      {
+        "uz": "Yo'q: samaradorlik 30 soniya ventilyatsiya yoki CPAP dan keyin YuUCh, nafas soni va saturatsiya bo'yicha baholanadi.",
+        "ru": "Нет: эффективность оценивают через 30 секунд PPV или CPAP по ЧСС, ЧД и сатурации."
+      },
+      {
+        "uz": "Yo'q: protokol baholashni 30 soniya ventilyatsiyadan keyin o'tkazishni talab qiladi.",
+        "ru": "Нет: протокол требует оценки после 30 секунд вентиляции."
+      }
+    ],
+    "r3-9": [
+      null,
+      {
+        "uz": "Yo'q: yurak massaji YuUCh < 60 bo'lganda boshlanadi; YuUCh 60–100 da ventilyatsiya davom ettiriladi va intubatsiyaga tayyorlaniladi.",
+        "ru": "Нет: НМС начинают при ЧСС < 60; при ЧСС 60–100 продолжают ИВЛ и готовят интубацию трахеи."
+      },
+      {
+        "uz": "Yo'q: ventilyatsiyani to'xtatish uchun YuUCh ≥ 100, SpO2 maqsadga mos va o'z-o'zidan nafas bo'lishi kerak; 60–100 da ventilyatsiya davom ettiriladi.",
+        "ru": "Нет: показанием к прекращению ИВЛ служит ЧСС ≥ 100, SpO2 по целевым значениям и спонтанное дыхание; при 60–100 ИВЛ продолжают."
+      }
+    ],
+    "r3-10": [
+      null,
+      {
+        "uz": "Yo'q: YuUCh auskultatsiya bilan aniqlanganda ventilyatsiya faqat 6 soniyaga to'xtatiladi.",
+        "ru": "Нет: при подсчёте ЧСС аускультативно вентиляцию останавливают только на 6 секунд."
+      },
+      {
+        "uz": "Yo'q: ventilyatsiya faqat YuUCh monitor bo'yicha aniqlanganda to'xtatilmaydi; auskultatsiyada u 6 soniyaga to'xtatiladi.",
+        "ru": "Нет: вентиляцию не прекращают, только если ЧСС определяют по монитору; при аускультации её останавливают на 6 секунд."
+      }
+    ],
+    "r4-1": [
+      null,
+      {
+        "uz": "Yo'q: boshlang'ich qadamlardan keyin YuUCh < 100 — yurak massajiga emas, musbat bosimli ventilyatsiyaga ko'rsatma.",
+        "ru": "Нет: ЧСС < 100 после начальных шагов — показание не к НМС, а к вентиляции под положительным давлением."
+      },
+      {
+        "uz": "Yo'q: protokolda yurak massajiga ko'rsatma — 30 soniya samarali ventilyatsiyaga qaramay YuUCh < 60.",
+        "ru": "Нет: по протоколу показание к НМС — ЧСС < 60, несмотря на эффективную вентиляцию в течение 30 секунд."
+      }
+    ],
+    "r4-2": [
+      null,
+      {
+        "uz": "Yo'q: uchta bosishdan keyin bitta nafas (3 : 1) — bu sikl 2 soniya, daqiqasiga 90 bosish va 30 nafas.",
+        "ru": "Нет: после трёх нажатий следует один вдох (3 : 1); цикл занимает 2 секунды — 90 нажатий и 30 вдохов в минуту."
+      },
+      {
+        "uz": "Yo'q: protokol bo'yicha nisbat 3 : 1 — daqiqasiga 90 bosish va 30 yordamchi nafas.",
+        "ru": "Нет: по протоколу соотношение 3 : 1 — 90 нажатий и 30 вспомогательных вдохов в минуту."
+      },
+      {
+        "uz": "Yo'q: uchta bosishdan keyin bitta nafas beriladi («Bir va-ikki va-uch va-nafas»).",
+        "ru": "Нет: после трёх нажатий следует один вдох (ритм «Раз и-два и-три и-вдох-и»)."
+      }
+    ],
+    "r4-3": [
+      null,
+      {
+        "uz": "Yo'q: bosish chuqurligi ko'krak qafasi old-orqa diametrining 1/2 emas, 1/3 qismi.",
+        "ru": "Нет: глубина компрессий — не 1/2, а одна треть переднезаднего диаметра грудной клетки."
+      },
+      {
+        "uz": "Yo'q: protokolda chuqurlik santimetrda emas, ko'krak qafasi old-orqa diametrining 1/3 qismi sifatida berilgan.",
+        "ru": "Нет: в протоколе глубина задана не в сантиметрах, а как одна треть переднезаднего диаметра грудной клетки."
+      }
+    ],
+    "r4-4": [
+      null,
+      {
+        "uz": "Yo'q: 21% (havo) — ≥ 35 haftalikda ventilyatsiyaning boshlanishi; yurak massajida kislorod 100% gacha oshiriladi.",
+        "ru": "Нет: 21% (воздух) — старт вентиляции при ГВ ≥ 35 недель; при НМС концентрацию кислорода увеличивают до 100%."
+      },
+      {
+        "uz": "Yo'q: yurak massaji o'tkazilganda kislorod konsentratsiyasi 100% gacha oshiriladi va intubatsiya ko'rib chiqiladi.",
+        "ru": "Нет: при проведении НМС концентрацию кислорода увеличивают до 100% и рассматривают интубацию трахеи."
+      }
+    ],
+    "r4-6": [
+      null,
+      {
+        "uz": "Yo'q: adrenalin faqat massaj va ventilyatsiyaga qaramay YuUCh < 60 qolsa yuboriladi; YuUCh > 60 bo'lganda massaj to'xtatiladi.",
+        "ru": "Нет: адреналин вводят, только если ЧСС остаётся < 60 несмотря на НМС и ИВЛ; при ЧСС > 60 НМС прекращают."
+      },
+      {
+        "uz": "Yo'q: YuUCh > 60 da faqat massaj to'xtatiladi, ventilyatsiya 40–60 /daq davom etadi; u YuUCh > 100 va o'z-o'zidan nafas paydo bo'lgach asta-sekin kamaytiriladi.",
+        "ru": "Нет: при ЧСС > 60 прекращают только НМС, ИВЛ продолжают 40–60 /мин; её постепенно уменьшают после ЧСС > 100 и появления самостоятельного дыхания."
+      }
+    ],
+    "r4-7": [
+      null,
+      {
+        "uz": "Yo'q: protokol bo'yicha v/i doza — 20 mkg/kg, ya'ni 1:10 000 konsentratsiyadagi eritmaning 0,2 ml/kg.",
+        "ru": "Нет: по протоколу в/в доза — 20 мкг/кг, то есть 0,2 мл/кг раствора в концентрации 1:10 000."
+      },
+      {
+        "uz": "Yo'q: v/i yuboriladigan adrenalin 1:10 000 konsentratsiyada, 0,2 ml/kg (20 mkg/kg) dozada.",
+        "ru": "Нет: внутривенно адреналин вводят в концентрации 1:10 000 в дозе 0,2 мл/кг (20 мкг/кг)."
+      }
+    ],
+    "r4-8": [
+      null,
+      {
+        "uz": "Yo'q: 1-dozadan keyin YuUCh < 60 qolsa, adrenalin 3–5 daqiqadan keyin takrorlanadi.",
+        "ru": "Нет: если после 1-й дозы ЧСС остаётся < 60, введение повторяют через 3–5 минут."
+      },
+      {
+        "uz": "Yo'q: protokol takroriy dozani 3–5 daqiqadan keyin yuborishni talab qiladi.",
+        "ru": "Нет: протокол требует повторного введения через 3–5 минут."
+      }
+    ],
+    "r4-9": [
+      null,
+      {
+        "uz": "Yo'q: AQH ni tiklash uchun tanlov preparati — 0,9% NaCl, 10 ml/kg, 5–10 daqiqada; glyukoza (10% li eritmadan 2,5 ml/kg) uzoq reanimatsiyada gipoglikemiya oldini olish uchun beriladi.",
+        "ru": "Нет: препарат выбора для восполнения ОЦК — 0,9% NaCl, 10 мл/кг за 5–10 минут; глюкоза (2,5 мл/кг 10% раствора) вводится при длительной реанимации для профилактики гипогликемии."
+      },
+      {
+        "uz": "Yo'q: protokolda AQH ni tiklash uchun tanlov preparati — 0,9% NaCl kindik venasiga 10 ml/kg, 5–10 daqiqa davomida.",
+        "ru": "Нет: по протоколу препарат выбора для восполнения ОЦК — 0,9% NaCl в пупочную вену 10 мл/кг в течение 5–10 минут."
+      }
+    ],
+    "r4-10": [
+      null,
+      {
+        "uz": "Yo'q: to'xtatish nafas yo'qligiga emas, YuUCh ga asoslanadi: barcha qadamlar bajarilib, 20 daqiqadan ko'proq YuUCh aniqlanmasa ko'rib chiqiladi.",
+        "ru": "Нет: решение основано не на отсутствии дыхания, а на ЧСС: прекращение рассматривают, если ЧСС не определяется более 20 минут при выполнении всех шагов."
+      },
+      {
+        "uz": "Yo'q: birinchi dozadan keyin YuUCh < 60 qolsa, adrenalin 3–5 daqiqadan keyin takrorlanadi; to'xtatish 20 daqiqadan ko'proq YuUCh bo'lmaganda ko'rib chiqiladi.",
+        "ru": "Нет: если после первой дозы ЧСС < 60, адреналин повторяют через 3–5 минут; прекращение рассматривают при отсутствии ЧСС более 20 минут."
+      }
+    ]
+  },
+  "evidence": {
+    "r1-1": "L294-298: «Примерно у 85% детей дыхание возникает спонтанно...; еще 10% реагируют на обсушивание...; около 5% получают вентиляцию»",
+    "r1-2": "L473-475: «Признаки живорождения: дыхание, сердцебиение, произвольные движения мускулатуры или пульсация пуповины»",
+    "r1-3": "L471-472: «реанимационные мероприятия... всем новорожденным, родившимся с ГВ ≥22 недели, у которых есть хотя бы один признак живорождения»",
+    "r1-4": "L548-552: «4 вопроса: ГВ? околоплодные воды чистые? есть ли дополнительные факторы риска? план пережатия пуповины?»",
+    "r1-5": "L595-599: «на все 3 вопроса ответ «ДА»... стандартный уход»; L640-642: «санация... может вызвать брадикардию... рутинное проведение не рекомендуется»",
+    "r1-6": "L599-600: «Если ответ на любой из трех вопросов «НЕТ», младенца следует перенести на реанимационный стол под источник лучистого тепла»",
+    "r1-7": "L477-480: «подтвержденным ГВ менее 22-х недель и массой тела менее 500 грамм... ВПР... несовместимых с жизнью»; Табл.1 (L436,456): КС по экстренным показаниям, мекониальное загрязнение — факторы риска; L647-650",
+    "r2-1": "L607-609: «Приблизительно 60 секунд («золотая минута») выделяются для завершения начальных шагов, повторной оценки... и начальной вентиляции»",
+    "r2-2": "L487-489: «в пределах 36,5-37,5°C. Следует избегать гипотермии (≤36,0°C) и гипертермии (>38,0°C)»",
+    "r2-3": "L511-514: «температуру в пределах 23-25°C. Для младенцев с ГВ ≤28 недель... >25°C»",
+    "r2-4": "L515-517: ГВ >32 недель — «Обсушите младенца»; L527-529: ГВ ≤32 — «Полностью накройте полиэтиленовой пленкой (кроме лица), не обсушивая, и используйте лучистое тепло»",
+    "r2-5": "L321-322: «пережимать пуповину не менее чем через 60 с, в идеале - после вентиляции легких»; L314-315: большинству не требуется незамедлительное пережатие",
+    "r2-6": "L640-642: «санация дыхательных путей может вызвать брадикардию во время реанимации, поэтому её рутинное проведение не рекомендуется»",
+    "r2-7": "L653-656: «Рутинная аспирация... отсрочивает начало вентиляции и не рекомендуется... начало вентиляции как можно скорее»",
+    "r2-8": "L630-631: «Под лопатки следует положить полотенце или одеяльце, сложенное до толщины 2 см»",
+    "r3-1": "L670-675: «ЧСС менее 100... прикрепить датчик пульсоксиметра на правое предплечье... переходить к вентиляции под положительным давлением»; L975-977: НМС при ЧСС <60 после 30 с ИВЛ",
+    "r3-2": "L673: «прикрепить датчик пульсоксиметра на правое предплечье»; L684-685: предуктальная SpO2",
+    "r3-3": "L684-689: Таблица 2 — 2 мин 65, 5 мин 85, 10 мин 90; L712: снижать O2 при сатурации >95% у недоношенных",
+    "r3-4": "L697-699: «(ГВ ≥35 недель)... начинайте с воздуха (21%)»; L969: «100% кислородом показана при проведении НМС»",
+    "r3-5": "L774-776: «Частота ИВЛ должна составлять 40-60 в одну минуту... ритм вальса»",
+    "r3-6": "L777-780: «начинать ИВЛ с PIP равным 20 см вод. ст.... у доношенных... увеличения PIP до ≥30»",
+    "r3-7": "L807-819: «три причины неэффективности вентиляции (МР СОДИ): герметичность маски; заблокированы дыхательные пути; недостаточное давление»",
+    "r3-8": "L863-868: «После 30 секунд вентиляции... или СРАР оценивают эффективность... ЧСС; ЧД; сатурации»",
+    "r3-9": "L886-887: «ЧСС 60-100... продолжают ИВЛ и готовят интубацию»; L892: «ЧСС <60... начинают НМС»; L873-878: критерии прекращения",
+    "r3-10": "L869-871: «по показанию монитора... не прекращают... с помощью аускультации... останавливают на 6 секунд»",
+    "r4-1": "L975-977: «Показанием для проведения НМС является ЧСС менее 60... несмотря на эффективную... вентиляцию в течение 30 секунд»; L672-675",
+    "r4-2": "L984-988: «после трех нажатий... один вдох (цикл... 2 секунды... 90 нажатиям... 30 вдохам)... «Раз и-два и-три и-вдох-и»»",
+    "r4-3": "L984-985: «Глубина компрессий должна составлять одну треть переднезаднего диаметра грудной клетки»",
+    "r4-4": "L352-354: «Если требуется проведение НМС, концентрацию кислорода... увеличить до 100% и рассмотреть... интубации»; L699",
+    "r4-6": "L992-1002: «ЧСС более 60... прекратить НМС, но продолжить PPV 40-60»; «ЧСС >100... постепенно уменьшать»; «ЧСС <60... этапу «D»»",
+    "r4-7": "L1005-1007: «доза адреналина при внутривенном введении... 20 мкг/кг (0,2 мл/кг... в концентрации 1:10 000)»",
+    "r4-8": "L1012-1013: «Если после 1-й дозы адреналина ЧСС остается менее 60... повторить... через 3-5 мин»",
+    "r4-9": "L1029-1032: «Препаратом выбора... 0,9% раствор натрия хлорида... 10 мл/кг... 5-10 минут»; L366-368: глюкоза 2,5 мл/кг 10% при длительной реанимации",
+    "r4-10": "L1049-1053: «ЧСС у доношенного... не обнаруженной более 20 минут... рассмотреть... прекращения»; L1044: 10 минут — пересмотр; L1012-1013"
+  },
+  "uncertain": {
+    "r2-4": "Prompt doesn't state GA; correct answer is the ≤32-wk method. Bath distractor not mentioned in protocol — note only restates the plastic-wrap method.",
+    "r4-7": "Protocol does not mention 1:1000 solution; notes only restate 0,2 мл/кг 1:10 000 (20 мкг/кг) without computing distractor doses.",
+    "r4-9": "Albumin not mentioned in protocol (it lists 0,9% NaCl and эритроцитарная масса); albumin note only restates the correct regimen."
+  }
+}

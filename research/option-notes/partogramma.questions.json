@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "p1-6",
+  "lesson": "Partogramma nima va kim uchun",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Protokolga ko'ra, onalar o'limining qancha qismi tug'ruq asoratlari bilan bog'liq?",
+   "ru": "Какая доля материнской смертности, по протоколу, связана с осложнениями родов?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Uchdan biridan ko'prog'i",
+    "ru": "Более одной трети"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "O'ndan biri",
+    "ru": "Одна десятая"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Deyarli hammasi",
+    "ru": "Почти все"
+   }
+  ],
+  "explanation": {
+   "uz": "Uchdan biridan ko'prog'i; shuningdek o'lik tug'ilishning yarmi va chaqaloq o'limining to'rtdan biri.",
+   "ru": "Более одной трети; а также половина мертворождений и четверть смертей новорождённых."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.1",
+   "page": 8
+  }
+ },
+ {
+  "id": "p2-1",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Partogrammani qachondan to'ldirish boshlanadi?",
+   "ru": "С какого момента начинают заполнять партограмму?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Faol faza boshlanganda — ochilish ≥ 5 sm",
+    "ru": "С начала активной фазы — раскрытие ≥ 5 см"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Ochilish 3 sm bo'lganda",
+    "ru": "При раскрытии 3 см"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Birinchi to'lg'oq boshlanganda",
+    "ru": "С первой схватки"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Faqat homila pardalari yorilgandan keyin",
+    "ru": "Только после разрыва плодных оболочек"
+   }
+  ],
+  "explanation": {
+   "uz": "Faol faza (≥ 5 sm) dan, tug'ruqlar soni va pardalar holatidan qat'i nazar.",
+   "ru": "С активной фазы (≥ 5 см), независимо от паритета и состояния оболочек."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.4",
+   "page": 9
+  }
+ },
+ {
+  "id": "p2-2",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": {
+   "uz": "Ayol qabul qilindi, ochilish 3 sm, to'lg'oqlar kam.",
+   "ru": "Поступила роженица, раскрытие 3 см, схватки редкие."
+  },
+  "prompt": {
+   "uz": "To'g'ri harakat qaysi?",
+   "ru": "Какое действие верно?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Partogramma to'ldirilmaydi, lekin ona va homilani standart kuzatish majburiy",
+    "ru": "Партограмму не заполняют, но стандартный мониторинг матери и плода обязателен"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Partogrammani darhol to'ldirishni boshlash",
+    "ru": "Сразу начать заполнять партограмму"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faol fazagacha kuzatuv talab qilinmaydi",
+    "ru": "До активной фазы мониторинг не требуется"
+   }
+  ],
+  "explanation": {
+   "uz": "Latent fazada partogramma yo'q, ammo standart kuzatuv majburiy.",
+   "ru": "В латентной фазе партограмму не ведут, но стандартный мониторинг обязателен."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.4",
+   "page": 9
+  }
+ },
+ {
+  "id": "p2-3",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "JSST 2022 partogrammasi nechta bo'limdan iborat?",
+   "ru": "Сколько разделов в партограмме ВОЗ 2022?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "7",
+    "ru": "7"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "5",
+    "ru": "5"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "4",
+    "ru": "4"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "10",
+    "ru": "10"
+   }
+  ],
+  "explanation": {
+   "uz": "7 bo'lim: identifikatsiya, qo'llab-quvvatlovchi parvarish, bola, ona, tug'ruq jarayoni, dorilar, birgalikda qaror.",
+   "ru": "7 разделов: идентификация, поддерживающий уход, ребёнок, мать, ход родов, лекарства, совместное решение."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.5",
+   "page": 9
+  }
+ },
+ {
+  "id": "p2-5",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Kritik mezonga mos kelgan parametr partogrammada qanday belgilanadi?",
+   "ru": "Как отмечают параметр, отвечающий критическим показателям?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Aylana bilan",
+    "ru": "Обводят кружком"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "O'chirib tashlanadi",
+    "ru": "Зачёркивают"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Hech qanday belgi qo'yilmaydi",
+    "ru": "Никак не отмечают"
+   }
+  ],
+  "explanation": {
+   "uz": "Aylana bilan belgilash diqqat talab qiladigan parametrlarni ko'rsatadi.",
+   "ru": "Обводка кружком наглядно выделяет параметры, требующие внимания."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.6",
+   "page": 10
+  }
+ },
+ {
+  "id": "p2-6",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Barcha parametrlar kritik qiymatlar doirasida bo'lsa, bu nimani anglatadi?",
+   "ru": "Что означает, если все параметры в рамках пороговых значений?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Tug'ruq me'yorda, aralashuv talab qilinmaydi",
+    "ru": "Роды идут нормально, вмешательств не требуется"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Zudlik bilan oksitotsin boshlash kerak",
+    "ru": "Нужно срочно начать окситоцин"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Kesar kesishga tayyorlanish kerak",
+    "ru": "Нужно готовиться к кесареву сечению"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: bunday holatda aralashuv talab qilinmaydi.",
+   "ru": "Протокол: в этом случае вмешательств не требуется."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.6",
+   "page": 10
+  }
+ },
+ {
+  "id": "p2-7",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "1-bo'limga nimalar yoziladi? (bir nechta javob)",
+   "ru": "Что записывают в раздел 1? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Tug'ruqlar soni",
+    "ru": "Число родов"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Pardalar yorilgan sana va vaqt",
+    "ru": "Дата и время разрыва оболочек"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Xavf omillari",
+    "ru": "Факторы риска"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Homila yurak urishi",
+    "ru": "ЧСС плода"
+   }
+  ],
+  "explanation": {
+   "uz": "Homila yurak urishi 3-bo'limda («Bolaga yordam») yoziladi.",
+   "ru": "ЧСС плода записывается в разделе 3 («Помощь ребёнку»)."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.5",
+   "page": 9
+  }
+ },
+ {
+  "id": "p2-8",
+  "lesson": "Qachon boshlanadi va qanday tuzilgan",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Vaqt o'qidagi «Soatlar» qatorida bitta katak nimaga teng?",
+   "ru": "Чему соответствует одна ячейка в ряду «Часы»?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Bir soat",
+    "ru": "Одному часу"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "30 daqiqa",
+    "ru": "30 минутам"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "4 soat",
+    "ru": "4 часам"
+   }
+  ],
+  "explanation": {
+   "uz": "Bitta katak = bir astronomik soat.",
+   "ru": "Одна ячейка = один астрономический час."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.6",
+   "page": 10
+  }
+ },
+ {
+  "id": "p3-1",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "2-bo'lim («Qo'llab-quvvatlovchi parvarish») qanchalik tez-tez to'ldiriladi?",
+   "ru": "Как часто заполняется раздел 2 («Поддерживающий уход»)?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Har soatda",
+    "ru": "Каждый час"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har 4 soatda",
+    "ru": "Каждые 4 часа"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat qabulda",
+    "ru": "Только при поступлении"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Har 30 daqiqada",
+    "ru": "Каждые 30 минут"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: qo'llab-quvvatlovchi parvarish bo'limi har soatda to'ldiriladi.",
+   "ru": "Протокол: раздел поддерживающего ухода заполняется каждый час."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 13
+  }
+ },
+ {
+  "id": "p3-2",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "2-bo'limdagi yagona kritik ko'rsatkich qaysi?",
+   "ru": "Какой единственный критический показатель в разделе 2?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Ayolning chalqancha yotishi",
+    "ru": "Положение женщины на спине"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Hamrohning yo'qligi",
+    "ru": "Отсутствие сопровождающего"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Og'riqsizlantirishdan voz kechish",
+    "ru": "Отказ от обезболивания"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Suyuqlik ichmaslik",
+    "ru": "Отказ от жидкости"
+   }
+  ],
+  "explanation": {
+   "uz": "Hamroh, og'riqsizlantirish va suyuqlik uchun kritik ko'rsatkich yo'q; holat uchun — «chalqancha».",
+   "ru": "Для сопровождающего, обезболивания и жидкости критических показателей нет; для положения — «на спине»."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 14
+  }
+ },
+ {
+  "id": "p3-3",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "single",
+  "case": {
+   "uz": "Soat 7:00. Nigora karavotda chalqancha yotibdi.",
+   "ru": "7:00. Нигора лежит на кровати на спине."
+  },
+  "prompt": {
+   "uz": "Akusherka nima qilishi kerak?",
+   "ru": "Что должна сделать акушерка?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Birinchi davrda erkin harakatlanishni taklif qilish",
+    "ru": "Предложить свободное перемещение в первом периоде"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Chalqancha yotishni davom ettirishni so'rash",
+    "ru": "Попросить оставаться на спине"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Darhol oksitotsin boshlash",
+    "ru": "Сразу начать окситоцин"
+   }
+  ],
+  "explanation": {
+   "uz": "Chalqancha holatda erkin harakatlanish va qulay holatni o'zi tanlash taklif qilinadi.",
+   "ru": "При положении на спине предлагают свободное перемещение и самостоятельный выбор положения."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 14
+  }
+ },
+ {
+  "id": "p3-4",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ayolda hamroh yo'q. To'g'ri harakat?",
+   "ru": "У женщины нет сопровождающего. Верное действие?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Hamroh tanlash va taklif qilishni taklif etish",
+    "ru": "Предложить выбрать и пригласить сопровождающее лицо"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Hech narsa qilmaslik — bu kritik emas",
+    "ru": "Ничего не делать — это не критично"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Katta shifokorni chaqirish",
+    "ru": "Вызвать старшего врача"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik ko'rsatkich bo'lmasa ham, rejada hamroh taklif qilish ko'zda tutilgan.",
+   "ru": "Хотя это не критический показатель, план предусматривает предложить сопровождающего."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 14
+  }
+ },
+ {
+  "id": "p3-5",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Protokolda qaysi holatlar ayolga taklif qilinadigan holatlar sifatida keltirilgan? (bir nechta javob)",
+   "ru": "Какие положения протокол приводит как варианты для женщины? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Chap yonboshda",
+    "ru": "На левом боку"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Cho'nqayib",
+    "ru": "На корточках"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Tizzada",
+    "ru": "На коленях"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Faqat chalqancha",
+    "ru": "Только на спине"
+   }
+  ],
+  "explanation": {
+   "uz": "Chalqancha — kritik ko'rsatkich; boshqa holatlar taklif qilinadi.",
+   "ru": "Положение на спине — критический показатель; остальные варианты предлагаются."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 14
+  }
+ },
+ {
+  "id": "p3-6",
+  "lesson": "Qo'llab-quvvatlovchi parvarish (2-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ayol tug'ruq vaqtida suyuqlik ichmagan. Rejada nima bo'ladi?",
+   "ru": "Роженица не принимала жидкость. Что в плане?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Yengil ovqat va xohishga ko'ra suyuqlik tavsiya qilish",
+    "ru": "Рекомендовать лёгкую пищу и жидкость по желанию"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Barcha ayollarga rutin vena ichiga infuziya",
+    "ru": "Рутинная в/в инфузия всем роженицам"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Ovqat va suyuqlikni taqiqlash",
+    "ru": "Запретить пищу и жидкость"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol yengil ovqat va suyuqlikni xohishga ko'ra tavsiya etadi.",
+   "ru": "Протокол рекомендует лёгкую пищу и жидкость по желанию."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.9",
+   "page": 14
+  }
+ },
+ {
+  "id": "p4-1",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi bazal YuUCh qiymatlari kritik hisoblanadi? (bir nechta javob)",
+   "ru": "Какие значения базальной ЧСС плода критические? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "105 /daq",
+    "ru": "105 /мин"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "160 /daq",
+    "ru": "160 /мин"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "140 /daq",
+    "ru": "140 /мин"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "112 /daq",
+    "ru": "112 /мин"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik: < 110 yoki ≥ 160. 160 ham kritik (≥).",
+   "ru": "Критично: < 110 или ≥ 160. 160 — тоже критично (≥)."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 15
+  }
+ },
+ {
+  "id": "p4-3",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "YuUCh me'yorda (110–159). Ikkinchi davrda qanchalik tez-tez tinglanadi?",
+   "ru": "ЧСС в норме (110–159). Как часто выслушивать во втором периоде?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Har 5 daqiqada",
+    "ru": "Каждые 5 минут"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har 30 daqiqada",
+    "ru": "Каждые 30 минут"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Har soatda",
+    "ru": "Каждый час"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Har 15 daqiqada",
+    "ru": "Каждые 15 минут"
+   }
+  ],
+  "explanation": {
+   "uz": "{{I}} davr — har 30 daqiqada, {{II}} davr — har 5 daqiqada.",
+   "ru": "I период — каждые 30 минут, II период — каждые 5 минут."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 15
+  }
+ },
+ {
+  "id": "p4-4",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Homila yurak urishi qancha vaqt tinglanadi?",
+   "ru": "Сколько времени выслушивают ЧСС плода?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Kamida 1 daqiqa: to'lg'oq paytida va tugaganidan keyin kamida 30 soniya",
+    "ru": "Не менее 1 минуты: во время схватки и не менее 30 секунд после"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "10 soniya, to'lg'oqlar orasida",
+    "ru": "10 секунд между схватками"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat to'lg'oq paytida",
+    "ru": "Только во время схватки"
+   }
+  ],
+  "explanation": {
+   "uz": "Kamida bir daqiqa, to'lg'oq paytida va undan keyin kamida 30 soniya.",
+   "ru": "Не менее минуты, во время схватки и ≥30 секунд после её окончания."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 15
+  }
+ },
+ {
+  "id": "p4-5",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi deceleratsiyalar kritik ko'rsatkich hisoblanadi?",
+   "ru": "Какие децелерации являются критическим показателем?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Kech",
+    "ru": "Поздние"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Erta",
+    "ru": "Ранние"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "O'zgaruvchan",
+    "ru": "Вариабельные"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik: kech deceleratsiyalar («Поз»).",
+   "ru": "Критично: поздние децелерации («Поз»)."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 16
+  }
+ },
+ {
+  "id": "p4-6",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Qog'onoq suvining qaysi holatlari kritik? (bir nechta javob)",
+   "ru": "Какие состояния околоплодных вод критические? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Mekoniy bilan kuchli bo'yalish (M+++)",
+    "ru": "Интенсивное окрашивание меконием (M+++)"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Qon aralashmasi",
+    "ru": "Примесь крови"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Pardalar butun",
+    "ru": "Целые оболочки"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Tiniq suv",
+    "ru": "Светлые воды"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik: M+++ va qon.",
+   "ru": "Критично: M+++ и кровь."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 16
+  }
+ },
+ {
+  "id": "p4-7",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Qog'onoq suvida qon ko'pincha qaysi holatlarda kuzatiladi?",
+   "ru": "При каких состояниях часто наблюдается кровь в водах?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Yo'ldosh ko'chishi, yo'ldosh yoki tomirlar oldinda kelishi, bachadon yorilishi",
+    "ru": "Отслойка плаценты, предлежание плаценты или сосудов, разрыв матки"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Normal tug'ruqning odatiy belgisi",
+    "ru": "Обычный признак нормальных родов"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat homila gipoksiyasi",
+    "ru": "Только гипоксия плода"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokolda aynan shu holatlar keltirilgan.",
+   "ru": "Именно эти состояния приведены в протоколе."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 16
+  }
+ },
+ {
+  "id": "p4-8",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Homila joylashuvining qaysi variantlari kritik? (bir nechta javob)",
+   "ru": "Какие варианты положения плода критические? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Ensaning orqa ko'rinishi ({{P}})",
+    "ru": "Задний вид затылочного предлежания (P)"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Strelasimon chokning ko'ndalang turishi ({{T}})",
+    "ru": "Поперечное стояние стреловидного шва (T)"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Ensaning old ko'rinishi ({{A}})",
+    "ru": "Передний вид затылочного предлежания (A)"
+   }
+  ],
+  "explanation": {
+   "uz": "Old ko'rinish ({{A}}) — me'yor; keyingi baholash 4 soatdan keyin.",
+   "ru": "Передний вид (A) — норма; повторная оценка через 4 часа."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 17
+  }
+ },
+ {
+  "id": "p4-9",
+  "lesson": "Homila holatini kuzatish (3-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Bosh konfiguratsiyasi qaysi darajada kritik?",
+   "ru": "При какой степени конфигурации головки — критично?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "+++ (qaytarib bo'lmaydigan ustma-ust tushish)",
+    "ru": "+++ (захождение без возможности репозиции)"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "+ (suyaklar yaqinlashgan)",
+    "ru": "+ (кости сближены)"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "0",
+    "ru": "0"
+   }
+  ],
+  "explanation": {
+   "uz": "0 dan ++ gacha odatda me'yor belgisi; +++ — kritik.",
+   "ru": "От 0 до ++ — как правило норма; +++ — критично."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.10",
+   "page": 17
+  }
+ },
+ {
+  "id": "p5-1",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi ko'rsatkichlar kritik? (bir nechta javob)",
+   "ru": "Какие показатели критические? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Puls 124 /daq",
+    "ru": "Пульс 124 /мин"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "AQB 128/84",
+    "ru": "АД 128/84"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Harorat 37,6 °C",
+    "ru": "Температура 37,6 °C"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Puls 96 /daq",
+    "ru": "Пульс 96 /мин"
+   }
+  ],
+  "explanation": {
+   "uz": "Puls ≥ 120 va harorat ≥ 37,5 — kritik. 128/84 va 96 — me'yor doirasida.",
+   "ru": "Пульс ≥ 120 и температура ≥ 37,5 — критично. 128/84 и 96 — в пределах нормы."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p5-2",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Diastolik bosim uchun kritik chegara qaysi?",
+   "ru": "Какой порог ДАД критический?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "≥ 90 mm sim.ust.",
+    "ru": "≥ 90 мм рт.ст."
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "≥ 100 mm sim.ust.",
+    "ru": "≥ 100 мм рт.ст."
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "≥ 80 mm sim.ust.",
+    "ru": "≥ 80 мм рт.ст."
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "< 60 mm sim.ust.",
+    "ru": "< 60 мм рт.ст."
+   }
+  ],
+  "explanation": {
+   "uz": "DAB ≥ 90 gipertenziyadan dalolat berishi mumkin (tashxis uchun qo'shimcha baholash kerak).",
+   "ru": "ДАД ≥ 90 может свидетельствовать о гипертензии (для диагноза нужны дальнейшие оценки)."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p5-3",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ona ko'rsatkichlari me'yorda bo'lsa, puls, AQB va harorat qanchalik tez-tez o'lchanadi?",
+   "ru": "Если показатели матери в норме, как часто измеряют пульс, АД и температуру?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Har 4 soatda",
+    "ru": "Каждые 4 часа"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har soatda",
+    "ru": "Каждый час"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Har 30 daqiqada",
+    "ru": "Каждые 30 минут"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: me'yorda — har 4 soatda.",
+   "ru": "Протокол: в норме — каждые 4 часа."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p5-4",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Arterial bosim qaysi holatda o'lchanadi?",
+   "ru": "В каком положении измеряют АД?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "O'tirgan holatda",
+    "ru": "Сидя"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Chalqancha yotgan holatda",
+    "ru": "Лёжа на спине"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Tik turgan holatda",
+    "ru": "Стоя"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: o'tirgan holatda.",
+   "ru": "Протокол: в положении сидя."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p5-5",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Past sistolik bosim (< 80) nimaning belgisi bo'lishi mumkin?",
+   "ru": "Признаком чего может быть низкое САД (< 80)?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Gemorragik/septik shok yoki qon ketish",
+    "ru": "Геморрагического/септического шока или кровотечения"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Normal tug'ruq",
+    "ru": "Нормальных родов"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat hayajon",
+    "ru": "Только волнения"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: gemorragik shok, septik shok, yashirin yoki aniq qon ketish.",
+   "ru": "Протокол: геморрагический шок, септический шок, скрытое либо явное кровотечение."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p5-6",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Siydikda oqsil «+» aniqlandi. Bu…",
+   "ru": "В моче белок «+». Это…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Me'yor deb talqin qilinadi, tug'ruq davomida qayta baholanmaydi",
+    "ru": "Интерпретируется как норма, повторно в родах не оценивают"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Kritik — darhol katta shifokorga xabar berish",
+    "ru": "Критично — сразу уведомить старшего врача"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik — ++ va undan yuqori. Iz yoki + — me'yor.",
+   "ru": "Критично — ++ и выше. Следы или + — норма."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 20
+  }
+ },
+ {
+  "id": "p5-7",
+  "lesson": "Ona holatini kuzatish (4-bo'lim)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Harorat qayerda o'lchanadi?",
+   "ru": "Где измеряют температуру?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Qo'ltiq ostida",
+    "ru": "В подмышечной впадине"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Og'izda",
+    "ru": "Во рту"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Quloqda",
+    "ru": "В ухе"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: qo'ltiq ostida.",
+   "ru": "Протокол: в подмышечной впадине."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.11",
+   "page": 19
+  }
+ },
+ {
+  "id": "p6-1",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "10 daqiqadagi to'lg'oqlar sonining qaysi qiymatlari kritik? (bir nechta javob)",
+   "ru": "Какие значения числа схваток за 10 минут критические? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "2",
+    "ru": "2"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "6",
+    "ru": "6"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "4",
+    "ru": "4"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "3",
+    "ru": "3"
+   }
+  ],
+  "explanation": {
+   "uz": "Kritik: ≤ 2 yoki > 5.",
+   "ru": "Критично: ≤ 2 или > 5."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 22
+  }
+ },
+ {
+  "id": "p6-2",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": {
+   "uz": "10 daqiqada 2 ta to'lg'oq qayd etildi.",
+   "ru": "Зарегистрировано 2 схватки за 10 минут."
+  },
+  "prompt": {
+   "uz": "Birinchi harakat qaysi?",
+   "ru": "Первое действие?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Keyingi 10 daqiqada qayta sanab tasdiqlash",
+    "ru": "Уточнить подсчётом в следующие 10 минут"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Darhol oksitotsin boshlash",
+    "ru": "Сразу начать окситоцин"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Hech narsa qilmaslik",
+    "ru": "Ничего не делать"
+   }
+  ],
+  "explanation": {
+   "uz": "Avval qayta sanash; tasdiqlansa — katta shifokorga xabar berish.",
+   "ru": "Сначала повторный подсчёт; при подтверждении — уведомить старшего врача."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 22
+  }
+ },
+ {
+  "id": "p6-3",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ochilish 7 sm. Necha soat o'zgarmasa kritik hisoblanadi?",
+   "ru": "Раскрытие 7 см. Через сколько часов без динамики — критично?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "≥ 3 soat",
+    "ru": "≥ 3 ч"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "≥ 5 soat",
+    "ru": "≥ 5 ч"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "≥ 2 soat",
+    "ru": "≥ 2 ч"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "≥ 6 soat",
+    "ru": "≥ 6 ч"
+   }
+  ],
+  "explanation": {
+   "uz": "5→6s, 6→5s, 7→3s, 8→2,5s, 9→2s.",
+   "ru": "5→6ч, 6→5ч, 7→3ч, 8→2,5ч, 9→2ч."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 23
+  }
+ },
+ {
+  "id": "p6-5",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": {
+   "uz": "Birinchi marta tug'ayotgan ayol, {{II}} davr 3 soatdan beri davom etmoqda.",
+   "ru": "Первородящая, II период длится уже 3 часа."
+  },
+  "prompt": {
+   "uz": "Bu holat…",
+   "ru": "Это…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Kritik — chora ko'rish kerak",
+    "ru": "Критично — нужно принимать меры"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Me'yor",
+    "ru": "Норма"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat qayta tug'ayotganlar uchun kritik",
+    "ru": "Критично только для повторнородящих"
+   }
+  ],
+  "explanation": {
+   "uz": "Birinchi tug'ruqda ≥ 3 soat, qayta tug'ruqda ≥ 2 soat — kritik.",
+   "ru": "У нерожавших ≥ 3 ч, у повторнородящих ≥ 2 ч — критично."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 23
+  }
+ },
+ {
+  "id": "p6-6",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruq kutilganidek kechsa, ochilish qanchalik tez-tez tekshiriladi?",
+   "ru": "Если роды идут ожидаемо, как часто определяют раскрытие?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Har 4 soatda",
+    "ru": "Каждые 4 часа"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har soatda",
+    "ru": "Каждый час"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Har 2 soatda",
+    "ru": "Каждые 2 часа"
+   }
+  ],
+  "explanation": {
+   "uz": "Har 4 soatda, agar boshqacha ko'rsatma bo'lmasa.",
+   "ru": "Каждые 4 часа, если не показано иное."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 23
+  }
+ },
+ {
+  "id": "p6-7",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Homila tushishi (5/5 … 0/5) uchun kritik qiymat qaysi?",
+   "ru": "Какой порог для продвижения плода (5/5 … 0/5)?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Chegaraviy qiymat yo'q — individual",
+    "ru": "Порога нет — индивидуально"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "3/5",
+    "ru": "3/5"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "0/5",
+    "ru": "0/5"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: bu parametr uchun chegaraviy qiymat yo'q.",
+   "ru": "Протокол: пороговых значений для этого параметра нет."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.12",
+   "page": 24
+  }
+ },
+ {
+  "id": "p6-8",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Past xavfli ayollarga vena ichiga infuziya…",
+   "ru": "В/в инфузии роженицам низкого риска…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Rutin tavsiya etilmaydi, faqat ko'rsatma bo'yicha",
+    "ru": "Не рекомендуются рутинно, только по показаниям"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Hammasiga majburiy",
+    "ru": "Обязательны всем"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat {{II}} davrda majburiy",
+    "ru": "Обязательны только во II периоде"
+   }
+  ],
+  "explanation": {
+   "uz": "Infuziya harakatchanlikni kamaytiradi va ortiqcha xarajat; ichish taklif etiladi.",
+   "ru": "Инфузии снижают подвижность и повышают затраты; предлагают пить."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.13",
+   "page": 26
+  }
+ },
+ {
+  "id": "p6-9",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Oksitotsin partogrammada qanday yoziladi?",
+   "ru": "Как записывается окситоцин в партограмме?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Doza Ed/l da va tezlik tomchi/daq da",
+    "ru": "Доза в Ед/л и скорость в кап./мин"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Faqat «ha/yo'q»",
+    "ru": "Только «да/нет»"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat umumiy ml",
+    "ru": "Только общий объём в мл"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: Ed/l va tomchi/daq; har 60 daqiqadagi miqdor.",
+   "ru": "Протокол: Ед/л и кап./мин; количество за каждые 60 минут."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.13",
+   "page": 26
+  }
+ },
+ {
+  "id": "p6-10",
+  "lesson": "Tug'ruq jarayoni, dorilar va qaror (5–7-bo'limlar)",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "7-bo'limning asosiy tamoyili qaysi?",
+   "ru": "Ключевой принцип раздела 7?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Ayolning qaror qabul qilishdagi ishtiroki va xabardor qaror",
+    "ru": "Участие женщины в принятии решений и информированное решение"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Qarorni faqat shifokor qabul qiladi, ayolga aytilmaydi",
+    "ru": "Решение принимает только врач, женщине не сообщают"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: ayol ishtirokini ta'minlash juda muhim.",
+   "ru": "Протокол: крайне важно участие женщины."
+  },
+  "source": {
+   "protocolId": 795,
+   "section": "2.14",
+   "page": 26
+  }
+ }
+]

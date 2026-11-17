@@ -1,0 +1,218 @@
+{
+  "notes": {
+    "t1-1": [
+      null,
+      {
+        "uz": "Yo'q: protokolda tug'ruqdan keyingi davr 28 kun emas, tug'ruqdan keyin 42 kun deb belgilangan.",
+        "ru": "Нет: по протоколу послеродовый период — не 28 дней, а период в течение 42 дней после родов."
+      },
+      {
+        "uz": "Yo'q: 7 kun emas — protokol bo'yicha tug'ruqdan keyingi davr 42 kun davom etadi.",
+        "ru": "Нет: не 7 дней — по протоколу послеродовый период длится 42 дня после родов."
+      },
+      {
+        "uz": "Yo'q: protokolda 3 oy emas, tug'ruqdan keyin 42 kun ko'rsatilgan.",
+        "ru": "Нет: в протоколе указан не 3-месячный срок, а 42 дня после родов."
+      }
+    ],
+    "t1-2": [
+      null,
+      {
+        "uz": "Yo'q: bachadon tubi qov sathida 1-sutka oxirida emas, 10-sutkada bo'ladi; 1-sutka oxirida u kindik sathida paypaslanadi.",
+        "ru": "Нет: на уровне лона дно матки находится не к концу 1-х суток, а к 10-м суткам; к концу 1-х суток — на уровне пупка."
+      },
+      {
+        "uz": "Yo'q: protokolga ko'ra tug'ruqdan so'ng darhol bachadon tubi kindikdan 1–2 ko'ndalang barmoq pastda, 1-sutka oxirida esa kindik sathida paypaslanadi.",
+        "ru": "Нет: по протоколу сразу после родов дно матки на 1–2 поперечных пальца ниже пупка, а к концу 1-х суток — на уровне пупка."
+      }
+    ],
+    "t1-3": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra bachadon tubi qov sathiga 10-sutkada tushadi (1-sutka oxirida — kindik sathida).",
+        "ru": "Нет: по протоколу дно матки на уровне лона к 10-м суткам (к концу 1-х суток — на уровне пупка)."
+      },
+      {
+        "uz": "Yo'q: 42 kun — butun tug'ruqdan keyingi davr davomiyligi; bachadon tubi qov sathida esa 10-sutkada bo'ladi.",
+        "ru": "Нет: 42 дня — длительность всего послеродового периода, а на уровне лона дно матки находится к 10-м суткам."
+      }
+    ],
+    "t1-5": [
+      null,
+      {
+        "uz": "Yo'q: protokol ta'rifida 24 soat emas — tug'ruqdan keyin 6 soat o'tib mustaqil siydik chiqara olmaslik siydik ushlanishi hisoblanadi.",
+        "ru": "Нет: в определении протокола не 24 часа — задержка мочи это невозможность самостоятельного мочеиспускания через 6 часов после родов."
+      },
+      {
+        "uz": "Yo'q: 1 soat emas — protokol bo'yicha siydik ushlanishi tug'ruqdan 6 soat o'tgach mustaqil siydik chiqara olmaslik bilan tashxislanadi.",
+        "ru": "Нет: не 1 час — по протоколу задержка мочи это невозможность самостоятельного мочеиспускания через 6 часов после родов."
+      }
+    ],
+    "t1-6": [
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra baby-blues belgilari 2 hafta ichida o'z-o'zidan o'tadi.",
+        "ru": "Нет: по протоколу симптомы бэби-блюза проходят самостоятельно в течение двух недель с момента появления."
+      },
+      {
+        "uz": "Yo'q: 6 oy emas — protokol bo'yicha belgilar 2–3 kunda rivojlanadi va 2 hafta ichida o'z-o'zidan o'tadi.",
+        "ru": "Нет: не 6 месяцев — по протоколу симптомы развиваются за 2–3 дня и проходят самостоятельно в течение двух недель."
+      }
+    ],
+    "t1-7": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: emizish ro'yxatda yo'q — protokol bo'yicha davr antibiotik, qo'shimcha uterotonik terapiya, jarrohlik aralashuvi, kechiktirilgan chiqarish yoki qayta gospitalizatsiyaga olib kelgan asorat bo'lsa normal emas.",
+        "ru": "Нет: грудного вскармливания в этом перечне нет — период не нормальный при осложнениях, приведших к антибактериальной или дополнительной утеротонической терапии, хирургическому вмешательству, несвоевременной выписке или дополнительной госпитализации."
+      }
+    ],
+    "t2-1": [
+      null,
+      {
+        "uz": "Yo'q: 2 soat emas — protokol bo'yicha erta tug'ruqdan keyingi davr tug'ruq tugaganidan keyin 24 soat davom etadi.",
+        "ru": "Нет: не 2 часа — по протоколу ранний послеродовый период длится 24 часа после окончания родов."
+      },
+      {
+        "uz": "Yo'q: erta davr 24 soat davom etadi; 24 soatdan keyin kech davr boshlanib, 42 kungacha davom etadi.",
+        "ru": "Нет: ранний период длится 24 часа; через 24 часа начинается поздний период, который длится до 42 дней."
+      }
+    ],
+    "t2-2": [
+      null,
+      {
+        "uz": "Yo'q: har 30 daqiqada ko'rik keyingi 2 soatda o'tkaziladi; dastlabki 2 soatda — har 15 daqiqada.",
+        "ru": "Нет: каждые 30 минут — это следующие 2 часа; в первые 2 часа после родов осмотр 1 раз в 15 минут."
+      },
+      {
+        "uz": "Yo'q: har soatda ko'rik keyingi 4 soatda o'tkaziladi; dastlabki 2 soatda — har 15 daqiqada.",
+        "ru": "Нет: каждый час осматривают в течение последующих 4 часов; в первые 2 часа — 1 раз в 15 минут."
+      },
+      {
+        "uz": "Yo'q: har 4 soatda ko'rik keyingi 16 soatda o'tkaziladi; dastlabki 2 soatda — har 15 daqiqada.",
+        "ru": "Нет: каждые 4 часа осматривают в течение последующих 16 часов; в первые 2 часа — 1 раз в 15 минут."
+      }
+    ],
+    "t2-4": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: protokolda rutin bimanual tekshiruv tavsiya etilmaydi — u faqat ko'rsatmalar bo'yicha o'tkaziladi.",
+        "ru": "Нет: протокол не рекомендует рутинное бимануальное влагалищное исследование — оно проводится только по показаниям."
+      }
+    ],
+    "t2-5": [
+      null,
+      {
+        "uz": "Yo'q: 24 soat emas — AQB me'yorda bo'lsa, qayta o'lchash keyingi 6 soat tugaguncha o'tkaziladi.",
+        "ru": "Нет: не через 24 часа — при нормальном АД повторное измерение проводится до истечения следующих шести часов."
+      },
+      {
+        "uz": "Yo'q: chiqarishgacha kutilmaydi — protokol bo'yicha qayta o'lchash keyingi 6 soat tugaguncha o'tkaziladi.",
+        "ru": "Нет: не откладывается до выписки — по протоколу повторное измерение проводится до истечения следующих шести часов."
+      }
+    ],
+    "t2-6": [
+      null,
+      {
+        "uz": "Yo'q: sutkada 1 marta shifokor akusher-ginekolog ko'radi; akusherka esa 2 marta.",
+        "ru": "Нет: 1 раз в сутки осматривает врач акушер-гинеколог, а акушерка — 2 раза в сутки."
+      },
+      {
+        "uz": "Yo'q: protokol bo'yicha kech davrda akusherka sutkada 2 marta, shifokor 1 marta ko'radi.",
+        "ru": "Нет: по протоколу в позднем периоде акушерка осматривает 2 раза в сутки, врач — 1 раз в сутки."
+      }
+    ],
+    "t2-7": [
+      null,
+      {
+        "uz": "Yo'q: protokol bo'yicha tashxisda holat (normal yoki asoratli), muddat, tug'ruq natijasi va chaqaloq ma'lumotlari (muddat, vazn, Apgar) ko'rsatiladi.",
+        "ru": "Нет: по протоколу в диагнозе указываются состояние (нормальный или осложнённый период), срок, исход родов и данные ребёнка (срок, масса, Апгар)."
+      }
+    ],
+    "t3-1": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: protokolga ko'ra laktostazda harorat ko'pincha normal yoki subfebril bo'ladi va umumiy ahvol buzilmaydi.",
+        "ru": "Нет: по протоколу при лактостазе температура чаще нормальная или субфебрильная, общее самочувствие не нарушается."
+      }
+    ],
+    "t3-2": [
+      null,
+      {
+        "uz": "Yo'q: protokolda rutin bimanual tekshiruv tavsiya etilmaydi — faqat ko'rsatmalar bo'yicha (gipertermiya, qorin og'rig'i, VASh > 5 og'riq va b.).",
+        "ru": "Нет: протокол не рекомендует рутинное бимануальное исследование — только по показаниям (гипертермия, боль в животе, боль по ВАШ > 5 и др.)."
+      },
+      {
+        "uz": "Yo'q: chiqarishdan oldin ham majburiy emas — protokol rutin bimanual tekshiruvni tavsiya etmaydi, u faqat ko'rsatma bo'yicha.",
+        "ru": "Нет: перед выпиской оно тоже не обязательно — протокол не рекомендует рутинное бимануальное исследование, только по показаниям."
+      }
+    ],
+    "t3-3": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: normal loxiyalar ko'rsatmalar qatorida yo'q; ko'rsatmalar — gipertermiya, qorin og'rig'i, qin yoki oraliqda VASh > 5 og'riq, qinda yot jism hissi, noaniq sababli og'ir anemiya.",
+        "ru": "Нет: нормальных лохий нет среди показаний; показания — гипертермия, боль в животе, боль во влагалище или промежности по ВАШ > 5, чувство инородного тела, тяжёлая анемия неясного генеза."
+      }
+    ],
+    "t3-4": [
+      null,
+      {
+        "uz": "Yo'q: protokolda rutin umumiy qon va siydik tahlili tavsiya etilmaydi — faqat asoratli kechishda umumiy ko'rsatmalar bo'yicha.",
+        "ru": "Нет: протокол не рекомендует рутинные ОАК и ОАМ — они проводятся только при осложнённом течении по общим показаниям."
+      },
+      {
+        "uz": "Yo'q: protokolda tug'ruqlar soni bo'yicha ajratish yo'q — tahlillar faqat asoratli kechishda umumiy ko'rsatmalar bo'yicha o'tkaziladi.",
+        "ru": "Нет: протокол не выделяет первородящих — анализы проводятся только при осложнённом течении по общим показаниям."
+      }
+    ],
+    "t3-5": [
+      null,
+      null,
+      null,
+      {
+        "uz": "Yo'q: protokolda rutin kichik chanoq UTT tavsiya etilmaydi — faqat subinvolyutsiya, yo'ldosh qoldig'iga yoki endometritga shubha bo'lsa.",
+        "ru": "Нет: протокол не рекомендует рутинное УЗИ органов малого таза — только при субинволюции, подозрении на задержку частей плаценты или эндометрит."
+      }
+    ],
+    "t3-6": [
+      null,
+      {
+        "uz": "Yo'q: protokol holsizlik, oraliqdagi og'riq va bachadon qisqarganda qorin pastidagi og'riqni dastlabki 1–5 sutkada kuzatilishi mumkin bo'lgan shikoyatlar qatorida keltiradi.",
+        "ru": "Нет: протокол относит слабость, боли в промежности и периодические боли внизу живота при сокращении матки к жалобам, которые могут наблюдаться в первые 1–5 сутки."
+      }
+    ]
+  },
+  "evidence": {
+    "t1-1": "L208: «Послеродовый период – период в течение 42 дней после родов»",
+    "t1-2": "L238-240: «Сразу после родов… дно её пальпируется на 1–2 поперечных пальца ниже пупка. К концу 1-х суток… на уровне пупка, к 10-м суткам – на уровне лона»",
+    "t1-3": "L239-240: «К концу 1-х суток дно матки пальпируется на уровне пупка, к 10-м суткам – на уровне лона»; L208: 42 дня",
+    "t1-5": "L232-233: «Послеродовая задержка мочи – невозможность самостоятельного мочеиспускания через 6 часов после родов»",
+    "t1-6": "L228-231: «обычно развиваются в течение двух-трех дней после родов… проходят самостоятельно в течение двух недель»",
+    "t1-7": "L211-215: «не возникло осложнений, приведших: к назначению антибактериальной терапии… утеротонической… хирургическим… несвоевременной выписки… госпитализации»",
+    "t2-1": "L269: «Ранний послеродовой период длится 24 часа после окончания родов»; L273: «Поздний… начинается через 24 часа после родов и длится 42 дня»",
+    "t2-2": "L350-353: «1 раз в 15 минут в течение 2-х часов…, затем 1 раз в 30 минут в течение 2-х часов, затем каждый час в течении 4-х часов, далее каждые 4 часа в течении 16 часов»",
+    "t2-4": "L354-356: осмотр на «вагинального кровотечения, тонуса матки, высоты стояния дна матки, температуры тела и частоты пульса»; L373: «Не рекомендовано рутинное бимануальное»",
+    "t2-5": "L358-359: «Если артериальное давление находится в пределах нормы, повторное измерение проводится до истечения следующих шести часов»",
+    "t2-6": "L366-367: «врачом акушером-гинекологом 1 раз в сутки и акушеркой 2 раза в сутки»",
+    "t2-7": "L284-295: «1. Основное состояние… 2. Указывается срок… 3. Исход родов… 4. Гестационный возраст ребенка, масса… Апгар»",
+    "t3-1": "L330-338: «В отличие от мастита при лактостазе: не нарушается общее самочувствие; температура… нормальной или субфебрильной… облегчение… ОАК в пределах референсных»",
+    "t3-2": "L373-377: «Не рекомендовано рутинное бимануальное… Показаниями…: гипертермия, боль в животе; …ВАШ >5…»",
+    "t3-3": "L374-377: «гипертермия, боль в животе; боль во влагалище или промежности… (ВАШ) >5 баллов, чувство инородного тела во влагалище, анемия тяжелой степени неясного генеза»",
+    "t3-4": "L382-384: «Не рекомендовано рутинный общий (клинический) анализ крови и мочи… при осложненном течении… по общим показаниям»",
+    "t3-5": "L388-392: «Не рекомендовано рутинное УЗИ органов малого таза… показано при: субинволюции…, задержку частей плаценты…, эндометрит»",
+    "t3-6": "L310-316: «В первые 1-5 сутки… ощущение слабости…; болевые ощущения в области промежности…; периодические болевые ощущения внизу живота при сокращении матки»"
+  },
+  "uncertain": {
+    "t1-2": "Protocol says nothing about the xiphoid process; note for option 2 only restates protocol positions.",
+    "t1-3": "Protocol gives no fundal position for day 3; note only restates day-1/day-10 facts.",
+    "t1-6": "Protocol does not discuss drug treatment of baby blues; note only restates 'passes on its own within two weeks'.",
+    "t3-4": "Protocol does not mention primiparas re: tests; note only restates 'complicated course, general indications'."
+  }
+}

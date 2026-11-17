@@ -1,0 +1,737 @@
+[
+ {
+  "id": "t1-1",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan keyingi davr qancha davom etadi?",
+   "ru": "Сколько длится послеродовый период?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "42 kun",
+    "ru": "42 дня"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "28 kun",
+    "ru": "28 дней"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "7 kun",
+    "ru": "7 дней"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "3 oy",
+    "ru": "3 месяца"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: tug'ruqdan keyin 42 kun.",
+   "ru": "Протокол: 42 дня после родов."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.1",
+   "page": 7
+  }
+ },
+ {
+  "id": "t1-2",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "1-sutka oxirida bachadon tubi qayerda paypaslanadi?",
+   "ru": "Где пальпируется дно матки к концу 1-х суток?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Kindik sathida",
+    "ru": "На уровне пупка"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Qov sathida",
+    "ru": "На уровне лона"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Xanjarsimon o'simta sathida",
+    "ru": "На уровне мечевидного отростка"
+   }
+  ],
+  "explanation": {
+   "uz": "1-sutka oxiri — kindik, 10-sutka — qov.",
+   "ru": "Конец 1-х суток — пупок, 10-е сутки — лоно."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.2",
+   "page": 8
+  }
+ },
+ {
+  "id": "t1-3",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Bachadon tubi qaysi sutkada qov sathida bo'ladi?",
+   "ru": "На какие сутки дно матки на уровне лона?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "10-sutkada",
+    "ru": "На 10-е"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "3-sutkada",
+    "ru": "На 3-и"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "42-sutkada",
+    "ru": "На 42-е"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: 10-sutkada qov sathida.",
+   "ru": "Протокол: к 10-м суткам — на уровне лона."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.2",
+   "page": 8
+  }
+ },
+ {
+  "id": "t1-5",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan keyingi siydik ushlanishi qachon tashxislanadi?",
+   "ru": "Когда диагностируют послеродовую задержку мочи?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "6 soatdan keyin mustaqil siydik chiqara olmasa",
+    "ru": "Нет самостоятельного мочеиспускания через 6 часов"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "24 soatdan keyin",
+    "ru": "Через 24 часа"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "1 soatdan keyin",
+    "ru": "Через 1 час"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol ta'rifi: 6 soat.",
+   "ru": "Определение протокола: 6 часов."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.1",
+   "page": 8
+  }
+ },
+ {
+  "id": "t1-6",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "«Baby-blues» uchun qaysi tavsif to'g'ri?",
+   "ru": "Какое описание «бэби-блюза» верно?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "2–3-kunda boshlanadi, 2 hafta ichida o'z-o'zidan o'tadi",
+    "ru": "Начинается на 2–3-й день, проходит сам в течение 2 недель"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har doim dori bilan davolanadi",
+    "ru": "Всегда лечится медикаментозно"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "6 oy davom etadi",
+    "ru": "Длится 6 месяцев"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: 2–3 kunda boshlanib, 2 hafta ichida o'tadi.",
+   "ru": "Протокол: развивается за 2–3 дня, проходит в течение двух недель."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.1",
+   "page": 7
+  }
+ },
+ {
+  "id": "t1-7",
+  "lesson": "Ta'riflar va organizmdagi o'zgarishlar",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi holatlar tug'ruqdan keyingi davr «normal» emasligini bildiradi? (bir nechta javob)",
+   "ru": "Что означает, что период НЕ «нормальный»? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Antibiotik terapiya tayinlandi",
+    "ru": "Назначена антибактериальная терапия"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Qo'shimcha uterotonik kerak bo'ldi",
+    "ru": "Потребовалась дополнительная утеротоническая терапия"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Qayta gospitalizatsiya",
+    "ru": "Повторная госпитализация"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Ona emizmoqda",
+    "ru": "Мать кормит грудью"
+   }
+  ],
+  "explanation": {
+   "uz": "Emizish — normal jarayon.",
+   "ru": "Грудное вскармливание — нормальный процесс."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.1",
+   "page": 7
+  }
+ },
+ {
+  "id": "t2-1",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Erta tug'ruqdan keyingi davr qancha davom etadi?",
+   "ru": "Сколько длится ранний послеродовый период?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "24 soat",
+    "ru": "24 часа"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "2 soat",
+    "ru": "2 часа"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "7 kun",
+    "ru": "7 дней"
+   }
+  ],
+  "explanation": {
+   "uz": "Erta — 24 soat; kech — 24 soatdan 42 kungacha.",
+   "ru": "Ранний — 24 часа; поздний — с 24 часов до 42 дней."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.3",
+   "page": 8
+  }
+ },
+ {
+  "id": "t2-2",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan keyingi birinchi 2 soatda ko'rik qanchalik tez-tez o'tkaziladi?",
+   "ru": "Как часто осмотр в первые 2 часа после родов?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Har 15 daqiqada",
+    "ru": "Каждые 15 минут"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har 30 daqiqada",
+    "ru": "Каждые 30 минут"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Har soatda",
+    "ru": "Каждый час"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Har 4 soatda",
+    "ru": "Каждые 4 часа"
+   }
+  ],
+  "explanation": {
+   "uz": "2 soat — har 15 daqiqada.",
+   "ru": "2 часа — каждые 15 минут."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 10
+  }
+ },
+ {
+  "id": "t2-4",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Erta davrda har bir ko'rikda nimalar tekshiriladi? (bir nechta javob)",
+   "ru": "Что проверяют на каждом осмотре в раннем периоде? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Qindan qon ketish",
+    "ru": "Вагинальное кровотечение"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Bachadon tonusi va tubi balandligi",
+    "ru": "Тонус матки и высота дна"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Harorat va puls",
+    "ru": "Температура и пульс"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Rutin bimanual tekshiruv",
+    "ru": "Рутинное бимануальное исследование"
+   }
+  ],
+  "explanation": {
+   "uz": "Rutin bimanual tekshiruv tavsiya etilmaydi.",
+   "ru": "Рутинное бимануальное исследование не рекомендовано."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 10
+  }
+ },
+ {
+  "id": "t2-5",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan keyin AQB me'yorda bo'lsa, qayta qachon o'lchanadi?",
+   "ru": "Если АД после родов в норме, когда повторное измерение?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Keyingi 6 soat ichida",
+    "ru": "До истечения следующих 6 часов"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "24 soatdan keyin",
+    "ru": "Через 24 часа"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat chiqarishda",
+    "ru": "Только при выписке"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: keyingi 6 soat tugaguncha.",
+   "ru": "Протокол: до истечения следующих шести часов."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 10
+  }
+ },
+ {
+  "id": "t2-6",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Kech davrda akusherka sutkada necha marta ko'radi?",
+   "ru": "Сколько раз в сутки осматривает акушерка в позднем периоде?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "2 marta",
+    "ru": "2 раза"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "1 marta",
+    "ru": "1 раз"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "4 marta",
+    "ru": "4 раза"
+   }
+  ],
+  "explanation": {
+   "uz": "Shifokor — 1 marta, akusherka — 2 marta.",
+   "ru": "Врач — 1 раз, акушерка — 2 раза."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 10
+  }
+ },
+ {
+  "id": "t2-7",
+  "lesson": "Tasnif va kuzatuv jadvali",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tashxisga to'g'ri misol qaysi?",
+   "ru": "Какой пример диагноза верен?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "«Normal erta tug'ruqdan keyingi davr. Muddatli o'z-o'zidan tug'ruq. Tirik muddatli homila, 3400 g, Apgar 8/9»",
+    "ru": "«Нормальный ранний послеродовый период. Роды срочные, самопроизвольные. Живой доношенный плод, 3400 г, Апгар 8/9»"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "«Tug'ruqdan keyin. Hammasi yaxshi»",
+    "ru": "«После родов. Всё хорошо»"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokoldagi namuna: holat, muddat, tug'ruq natijasi, chaqaloq.",
+   "ru": "Пример из протокола: состояние, срок, исход родов, ребёнок."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.3",
+   "page": 9
+  }
+ },
+ {
+  "id": "t3-1",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi belgilar laktostazga xos (mastitdan farqli)? (bir nechta javob)",
+   "ru": "Какие признаки характерны для лактостаза (в отличие от мастита)? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Umumiy ahvol buzilmagan",
+    "ru": "Общее самочувствие не нарушено"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Sog'ishdan keyin yengillik",
+    "ru": "Облегчение после сцеживания"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Qon tahlili me'yorda",
+    "ru": "ОАК в норме"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Yuqori isitma va qaltirash",
+    "ru": "Высокая лихорадка и озноб"
+   }
+  ],
+  "explanation": {
+   "uz": "Laktostazda harorat ko'pincha normal yoki subfebril bo'ladi.",
+   "ru": "При лактостазе температура чаще нормальная или субфебрильная."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 10
+  }
+ },
+ {
+  "id": "t3-2",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan keyin rutin bimanual tekshiruv…",
+   "ru": "Рутинное бимануальное исследование после родов…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Tavsiya etilmaydi — faqat ko'rsatma bo'yicha",
+    "ru": "Не рекомендовано — только по показаниям"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har kuni majburiy",
+    "ru": "Обязательно ежедневно"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Chiqarishdan oldin majburiy",
+    "ru": "Обязательно перед выпиской"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: rutin bimanual tekshiruv tavsiya etilmaydi.",
+   "ru": "Протокол: рутинное бимануальное исследование не рекомендовано."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 11
+  }
+ },
+ {
+  "id": "t3-3",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Bimanual tekshiruvga ko'rsatmalar qaysilar? (bir nechta javob)",
+   "ru": "Показания к бимануальному исследованию? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Gipertermiya",
+    "ru": "Гипертермия"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Oraliqdagi og'riq VASh > 5",
+    "ru": "Боль в промежности ВАШ > 5"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Qinda yot jism hissi",
+    "ru": "Чувство инородного тела во влагалище"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Normal loxiyalar",
+    "ru": "Нормальные лохии"
+   }
+  ],
+  "explanation": {
+   "uz": "Shuningdek: qorin og'rig'i, noaniq sababli og'ir anemiya.",
+   "ru": "А также: боль в животе, тяжёлая анемия неясного генеза."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 11
+  }
+ },
+ {
+  "id": "t3-4",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Normal tug'ruqdan keyingi davrda rutin umumiy qon va siydik tahlili…",
+   "ru": "Рутинные ОАК и ОАМ при нормальном послеродовом периоде…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Tavsiya etilmaydi",
+    "ru": "Не рекомендованы"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Har kuni o'tkaziladi",
+    "ru": "Проводятся ежедневно"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Faqat birinchi tug'ruqda",
+    "ru": "Только у первородящих"
+   }
+  ],
+  "explanation": {
+   "uz": "Faqat asoratli kechishda umumiy ko'rsatmalar bo'yicha.",
+   "ru": "Только при осложнённом течении по общим показаниям."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 11
+  }
+ },
+ {
+  "id": "t3-5",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Kichik chanoq UTT ko'rsatmalari? (bir nechta javob)",
+   "ru": "Показания к УЗИ малого таза? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Bachadon subinvolyutsiyasi",
+    "ru": "Субинволюция матки"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Yo'ldosh qoldig'iga shubha",
+    "ru": "Подозрение на задержку частей плаценты"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Endometritga shubha",
+    "ru": "Подозрение на эндометрит"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Har bir ayolga rutin",
+    "ru": "Рутинно каждой женщине"
+   }
+  ],
+  "explanation": {
+   "uz": "Rutin UTT tavsiya etilmaydi.",
+   "ru": "Рутинное УЗИ не рекомендовано."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 11
+  }
+ },
+ {
+  "id": "t3-6",
+  "lesson": "Laktostaz va tekshiruvlar: nima kerak, nima kerak emas",
+  "type": "single",
+  "case": {
+   "uz": "3-kun. Ayol holsizlik, oraliqda o'rtacha og'riq va bachadon qisqarganda qorin pastida og'riqdan shikoyat qiladi. Harorat, puls, bosim me'yorda.",
+   "ru": "3-и сутки. Жалобы на слабость, умеренную боль в промежности и боли внизу живота при сокращении матки. Температура, пульс, АД в норме."
+  },
+  "prompt": {
+   "uz": "Bu shikoyatlar…",
+   "ru": "Эти жалобы…"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Normal davrda kuzatilishi mumkin",
+    "ru": "Могут наблюдаться в нормальном периоде"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Albatta asorat belgisi",
+    "ru": "Обязательно признак осложнения"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol bularni 1–5 kundagi odatiy shikoyatlar qatorida keltiradi.",
+   "ru": "Протокол относит их к типичным жалобам 1–5 суток."
+  },
+  "source": {
+   "protocolId": 800,
+   "section": "2.4",
+   "page": 9
+  }
+ }
+]

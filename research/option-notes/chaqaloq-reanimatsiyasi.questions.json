@@ -1,0 +1,1379 @@
+[
+ {
+  "id": "r1-1",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Protokolga ko'ra, chaqaloqlarning taxminan qancha qismi o'z-o'zidan nafas oladi?",
+   "ru": "По протоколу, какая доля детей дышит спонтанно?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "~85%",
+    "ru": "~85%"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "~50%",
+    "ru": "~50%"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "~99%",
+    "ru": "~99%"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "~65%",
+    "ru": "~65%"
+   }
+  ],
+  "explanation": {
+   "uz": "85% — o'zi, 10% — boshlang'ich choralarga javob, ~5% — musbat bosimli ventilyatsiya.",
+   "ru": "85% — сами, 10% — на начальные меры, ~5% — вентиляция под положительным давлением."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Основные ключевые рекомендации",
+   "page": 12
+  }
+ },
+ {
+  "id": "r1-2",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Tirik tug'ilish belgilari qaysilar? (bir nechta javob)",
+   "ru": "Какие признаки живорождения? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Nafas",
+    "ru": "Дыхание"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Yurak urishi",
+    "ru": "Сердцебиение"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Kindik pulsatsiyasi",
+    "ru": "Пульсация пуповины"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Teri rangining pushtiligi",
+    "ru": "Розовый цвет кожи"
+   }
+  ],
+  "explanation": {
+   "uz": "Nafas, yurak urishi, ixtiyoriy mushak harakatlari, kindik pulsatsiyasi. Teri rangi belgi emas.",
+   "ru": "Дыхание, сердцебиение, произвольные движения мышц, пульсация пуповины. Цвет кожи — не признак."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Показания к проведению реанимации",
+   "page": 17
+  }
+ },
+ {
+  "id": "r1-3",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ko'rsatma bo'lsa, qaysi gestatsiya muddatidan boshlab reanimatsiya o'tkaziladi?",
+   "ru": "С какого срока гестации проводят реанимацию при наличии показаний?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "≥ 22 hafta, kamida bitta tirik tug'ilish belgisi bilan",
+    "ru": "≥ 22 недели, с хотя бы одним признаком живорождения"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "≥ 28 hafta",
+    "ru": "≥ 28 недель"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "≥ 37 hafta",
+    "ru": "≥ 37 недель"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: ≥ 22 hafta va kamida bitta tirik tug'ilish belgisi.",
+   "ru": "Протокол: ≥ 22 недели и хотя бы один признак живорождения."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Показания к проведению реанимации",
+   "page": 17
+  }
+ },
+ {
+  "id": "r1-4",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruqdan oldin akusherlik xodimlariga beriladigan 4 savolga qaysilar kiradi? (bir nechta javob)",
+   "ru": "Что входит в 4 вопроса акушерскому персоналу до родов? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Gestatsiya muddati",
+    "ru": "Срок гестации"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Qog'onoq suvi tiniqmi",
+    "ru": "Чистые ли воды"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Kindikni qisish rejasi",
+    "ru": "План пережатия пуповины"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Onaning qon guruhi",
+    "ru": "Группа крови матери"
+   }
+  ],
+  "explanation": {
+   "uz": "To'rtinchisi — qo'shimcha xavf omillari bormi.",
+   "ru": "Четвёртый — есть ли дополнительные факторы риска."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Прогнозирование",
+   "page": 19
+  }
+ },
+ {
+  "id": "r1-5",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "single",
+  "case": {
+   "uz": "Muddatida tug'ilgan, tonusi yaxshi, baland ovozda yig'layapti.",
+   "ru": "Доношенный, хороший тонус, громко кричит."
+  },
+  "prompt": {
+   "uz": "To'g'ri harakat?",
+   "ru": "Верное действие?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Onasi bilan qoldirish: quritish, ko'ksiga qo'yish, iliq yo'rgak bilan yopish, kuzatish",
+    "ru": "Оставить с матерью: обсушить, положить на грудь, накрыть тёплой пелёнкой, наблюдать"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Darhol reanimatsiya stoliga o'tkazish",
+    "ru": "Сразу перенести на реанимационный стол"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Rutin og'iz-burunni so'rib tozalash",
+    "ru": "Рутинно санировать рот и нос"
+   }
+  ],
+  "explanation": {
+   "uz": "Uchala javob «ha» — standart parvarish onasi bilan.",
+   "ru": "На все три «да» — стандартный уход с матерью."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Первичная оценка",
+   "page": 21
+  }
+ },
+ {
+  "id": "r1-6",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "single",
+  "case": {
+   "uz": "Muddatida tug'ilgan, nafas olmayapti, tonus pasaygan.",
+   "ru": "Доношенный, не дышит, тонус снижен."
+  },
+  "prompt": {
+   "uz": "To'g'ri harakat?",
+   "ru": "Верное действие?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Issiqlik manbai ostidagi reanimatsiya stoliga o'tkazish va algoritm bo'yicha harakat",
+    "ru": "Перенести на реанимационный стол под лучистое тепло и действовать по алгоритму"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Onasining ko'ksida kuzatishni davom ettirish",
+    "ru": "Продолжить наблюдение на груди матери"
+   }
+  ],
+  "explanation": {
+   "uz": "Birorta savolga «yo'q» — reanimatsiya stoli.",
+   "ru": "Хотя бы одно «нет» — реанимационный стол."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Первичная оценка",
+   "page": 21
+  }
+ },
+ {
+  "id": "r1-7",
+  "lesson": "Tayyorgarlik, ko'rsatmalar va birlamchi baholash",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Qaysi holatda reanimatsiya ko'rsatilmaydi?",
+   "ru": "В каком случае реанимация не показана?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Tasdiqlangan muddat < 22 hafta va vazn < 500 g",
+    "ru": "Подтверждённый ГВ < 22 недель и масса < 500 г"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Mekoniyli suvda tug'ilgan chaqaloq",
+    "ru": "Ребёнок, рождённый в мекониальных водах"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Kesar kesish orqali tug'ilgan chaqaloq",
+    "ru": "Ребёнок, рождённый путём КС"
+   }
+  ],
+  "explanation": {
+   "uz": "Shuningdek hayot bilan mos kelmaydigan kritik nuqsonlar va xromosoma anomaliyalari.",
+   "ru": "А также критические ВПР и хромосомные аномалии, несовместимые с жизнью."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Противопоказания",
+   "page": 17
+  }
+ },
+ {
+  "id": "r2-1",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "«Oltin daqiqa» — bu taxminan qancha vaqt?",
+   "ru": "«Золотая минута» — это примерно сколько?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "60 soniya",
+    "ru": "60 секунд"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "5 daqiqa",
+    "ru": "5 минут"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "30 soniya",
+    "ru": "30 секунд"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "10 daqiqa",
+    "ru": "10 минут"
+   }
+  ],
+  "explanation": {
+   "uz": "~60 soniya: boshlang'ich choralar, qayta baholash va kerak bo'lsa ventilyatsiya.",
+   "ru": "~60 секунд: начальные шаги, повторная оценка и при необходимости вентиляция."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Первичная оценка",
+   "page": 21
+  }
+ },
+ {
+  "id": "r2-2",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Chaqaloq harorati qaysi oraliqda ushlanishi kerak?",
+   "ru": "В каких пределах поддерживать температуру ребёнка?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "36,5–37,5 °C",
+    "ru": "36,5–37,5 °C"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "35,5–36,5 °C",
+    "ru": "35,5–36,5 °C"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "37,0–38,0 °C",
+    "ru": "37,0–38,0 °C"
+   }
+  ],
+  "explanation": {
+   "uz": "Gipotermiya ≤ 36,0 °C, gipertermiya > 38,0 °C — ulardan saqlanish kerak.",
+   "ru": "Гипотермия ≤ 36,0 °C, гипертермия > 38,0 °C — их избегать."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Термоконтроль",
+   "page": 17
+  }
+ },
+ {
+  "id": "r2-3",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Tug'ruq zalidagi xona harorati qanday bo'lishi kerak?",
+   "ru": "Какая температура должна быть в родзале?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "23–25 °C",
+    "ru": "23–25 °C"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "18–20 °C",
+    "ru": "18–20 °C"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "28–30 °C",
+    "ru": "28–30 °C"
+   }
+  ],
+  "explanation": {
+   "uz": "23–25 °C; ≤ 28 haftalik chaqaloqlar uchun > 25 °C.",
+   "ru": "23–25 °C; для ГВ ≤ 28 недель — > 25 °C."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Условия",
+   "page": 18
+  }
+ },
+ {
+  "id": "r2-4",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": {
+   "uz": "30 haftalik chaqaloq tug'ildi.",
+   "ru": "Родился ребёнок 30 недель."
+  },
+  "prompt": {
+   "uz": "Issiqlikni saqlash uchun to'g'ri usul?",
+   "ru": "Верный способ сохранения тепла?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Quritmasdan, yuzdan tashqari polietilen plyonka bilan to'liq yopish + nurli issiqlik",
+    "ru": "Не обсушивая, полностью накрыть полиэтиленовой плёнкой, кроме лица + лучистое тепло"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Avval yaxshilab quritish, keyin yo'rgaklash",
+    "ru": "Сначала тщательно обсушить, затем запеленать"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Iliq suvda cho'miltirish",
+    "ru": "Искупать в тёплой воде"
+   }
+  ],
+  "explanation": {
+   "uz": "≤ 32 hafta — plyonka, quritmasdan.",
+   "ru": "≤ 32 недель — плёнка, без обсушивания."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Условия",
+   "page": 18
+  }
+ },
+ {
+  "id": "r2-5",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Kindikni qisish bo'yicha tavsiya?",
+   "ru": "Рекомендация по пережатию пуповины?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Kamida 60 soniyadan keyin, ideal holda ventilyatsiyadan keyin",
+    "ru": "Не ранее чем через 60 с, в идеале — после вентиляции"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Darhol, birinchi 10 soniyada",
+    "ru": "Сразу, в первые 10 секунд"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Yo'ldosh ajralgandan keyingina",
+    "ru": "Только после отделения плаценты"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: kamida 60 soniya, ideal — o'pka ventilyatsiyasidan keyin.",
+   "ru": "Протокол: не менее 60 с, в идеале — после вентиляции лёгких."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Уход за пуповиной",
+   "page": 13
+  }
+ },
+ {
+  "id": "r2-6",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Nega nafas yo'llarini rutin so'rish tavsiya etilmaydi?",
+   "ru": "Почему не рекомендуется рутинная санация?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Bradikardiya chaqirishi mumkin",
+    "ru": "Может вызвать брадикардию"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Juda uzoq vaqt oladi",
+    "ru": "Занимает слишком много времени"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Jihoz qimmat",
+    "ru": "Оборудование дорогое"
+   }
+  ],
+  "explanation": {
+   "uz": "Sanatsiya reanimatsiya paytida bradikardiya chaqirishi mumkin; faqat obstruksiyada.",
+   "ru": "Санация может вызвать брадикардию; только при обструкции."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Санация",
+   "page": 23
+  }
+ },
+ {
+  "id": "r2-7",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": {
+   "uz": "Mekoniyli suvda nofaol chaqaloq tug'ildi, nafas olmayapti.",
+   "ru": "Неактивный ребёнок в мекониальных водах, не дышит."
+  },
+  "prompt": {
+   "uz": "Asosiy e'tibor nimaga qaratiladi?",
+   "ru": "На чём главный акцент?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Ventilyatsiyani imkon qadar tez boshlash",
+    "ru": "Начать вентиляцию как можно скорее"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Avval rutin laringoskopiya va aspiratsiya",
+    "ru": "Сначала рутинная ларингоскопия и аспирация"
+   }
+  ],
+  "explanation": {
+   "uz": "Rutin aspiratsiya ventilyatsiyani kechiktiradi va tavsiya etilmaydi.",
+   "ru": "Рутинная аспирация отсрочивает вентиляцию и не рекомендуется."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Меконий",
+   "page": 23
+  }
+ },
+ {
+  "id": "r2-8",
+  "lesson": "Issiqlik va A bosqich — «oltin daqiqa»",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Boshning neytral holatini saqlash uchun kurak ostiga nima qo'yiladi?",
+   "ru": "Что кладут под лопатки для нейтрального положения головы?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "~2 sm qalinlikdagi buklangan sochiq",
+    "ru": "Полотенце, сложенное до ~2 см"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Yostiq",
+    "ru": "Подушку"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Hech narsa",
+    "ru": "Ничего"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: 2 sm qalinlikdagi sochiq yoki adyolcha.",
+   "ru": "Протокол: полотенце или одеяльце толщиной 2 см."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Положение головы",
+   "page": 22
+  }
+ },
+ {
+  "id": "r3-1",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": {
+   "uz": "A bosqichdan keyin chaqaloqda gasping, YuUCh 80 /daq.",
+   "ru": "После этапа A у ребёнка гаспинг, ЧСС 80 /мин."
+  },
+  "prompt": {
+   "uz": "Keyingi qadam?",
+   "ru": "Следующий шаг?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Pulsoksimetr o'ng bilakka va musbat bosimli ventilyatsiya",
+    "ru": "Пульсоксиметр на правое предплечье и вентиляция под положительным давлением"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Yurak massajini boshlash",
+    "ru": "Начать непрямой массаж сердца"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Taktil stimulyatsiyani yana 2 daqiqa davom ettirish",
+    "ru": "Продолжать тактильную стимуляцию ещё 2 минуты"
+   }
+  ],
+  "explanation": {
+   "uz": "Gasping yoki YuUCh < 100 — {{PPV}} ga o'tish.",
+   "ru": "Гаспинг или ЧСС < 100 — переход к {{PPV}}."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап А",
+   "page": 24
+  }
+ },
+ {
+  "id": "r3-2",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Pulsoksimetr datchigi qayerga qo'yiladi?",
+   "ru": "Куда крепят датчик пульсоксиметра?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "O'ng bilakka (preduktal)",
+    "ru": "На правое предплечье (преддуктально)"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Chap oyoqqa",
+    "ru": "На левую ногу"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Peshonaga",
+    "ru": "На лоб"
+   }
+  ],
+  "explanation": {
+   "uz": "Preduktal ko'rsatkich uchun — o'ng bilak.",
+   "ru": "Для преддуктальных показателей — правое предплечье."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап А",
+   "page": 24
+  }
+ },
+ {
+  "id": "r3-3",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "5-daqiqada preduktal {{SpO2}} maqsadi qancha?",
+   "ru": "Целевая преддуктальная {{SpO2}} на 5-й минуте?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "85%",
+    "ru": "85%"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "65%",
+    "ru": "65%"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "90%",
+    "ru": "90%"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "95%",
+    "ru": "95%"
+   }
+  ],
+  "explanation": {
+   "uz": "2 daq — 65%, 5 daq — 85%, 10 daq — 90%.",
+   "ru": "2 мин — 65%, 5 мин — 85%, 10 мин — 90%."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Таблица 2",
+   "page": 24
+  }
+ },
+ {
+  "id": "r3-4",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Muddatida tug'ilgan (≥ 35 hafta) chaqaloqda ventilyatsiya qanday gaz bilan boshlanadi?",
+   "ru": "С какой смеси начинают вентиляцию у доношенного (≥ 35 нед)?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Havo (21%)",
+    "ru": "Воздух (21%)"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "100% kislorod",
+    "ru": "100% кислород"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "50% kislorod",
+    "ru": "50% кислород"
+   }
+  ],
+  "explanation": {
+   "uz": "≥ 35 hafta — havo bilan boshlanadi.",
+   "ru": "≥ 35 недель — начинать с воздуха."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Воздух/кислород",
+   "page": 25
+  }
+ },
+ {
+  "id": "r3-5",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ventilyatsiya chastotasi qancha?",
+   "ru": "Какова частота ИВЛ?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "40–60 /daq",
+    "ru": "40–60 /мин"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "20–30 /daq",
+    "ru": "20–30 /мин"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "80–100 /daq",
+    "ru": "80–100 /мин"
+   }
+  ],
+  "explanation": {
+   "uz": "40–60 /daq, «vals» ritmida.",
+   "ru": "40–60 /мин, в ритме «вальса»."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Проведение {{PPV}}",
+   "page": 27
+  }
+ },
+ {
+  "id": "r3-6",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Boshlang'ich nafas bosimi ({{PIP}}) qancha?",
+   "ru": "Начальное PIP?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "20 sm suv ust.",
+    "ru": "20 см вод. ст."
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "40 sm suv ust.",
+    "ru": "40 см вод. ст."
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "10 sm suv ust.",
+    "ru": "10 см вод. ст."
+   }
+  ],
+  "explanation": {
+   "uz": "20 sm suv ust. dan boshlanadi, klinik samaraga qarab o'zgartiriladi.",
+   "ru": "Начинают с 20 см вод. ст., меняют по клиническому эффекту."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Проведение {{PPV}}",
+   "page": 27
+  }
+ },
+ {
+  "id": "r3-7",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "multi",
+  "case": null,
+  "prompt": {
+   "uz": "Ventilyatsiya samarasizligining 3 sababi qaysilar? (bir nechta javob)",
+   "ru": "Три причины неэффективной вентиляции? (несколько ответов)"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Niqob zich yopishmagan",
+    "ru": "Неплотное прилегание маски"
+   },
+   {
+    "i": 1,
+    "correct": true,
+    "uz": "Nafas yo'llari to'silgan",
+    "ru": "Заблокированы дыхательные пути"
+   },
+   {
+    "i": 2,
+    "correct": true,
+    "uz": "Bosim yetarli emas",
+    "ru": "Недостаточное давление"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "Xona harorati past",
+    "ru": "Низкая температура помещения"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: niqob, nafas yo'llari va bosim.",
+   "ru": "Протокол: маска, дыхательные пути и давление."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "МР СОДИ",
+   "page": 28
+  }
+ },
+ {
+  "id": "r3-8",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Ventilyatsiya samaradorligi qancha vaqtdan keyin baholanadi?",
+   "ru": "Через сколько оценивают эффективность вентиляции?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "30 soniyadan keyin",
+    "ru": "Через 30 секунд"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "5 daqiqadan keyin",
+    "ru": "Через 5 минут"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "2 daqiqadan keyin",
+    "ru": "Через 2 минуты"
+   }
+  ],
+  "explanation": {
+   "uz": "30 soniyalik {{PPV}} yoki {{CPAP}} dan keyin: YuUCh, nafas soni, saturatsiya.",
+   "ru": "После 30 секунд {{PPV}} или {{CPAP}}: ЧСС, ЧД, сатурация."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап В",
+   "page": 30
+  }
+ },
+ {
+  "id": "r3-9",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": {
+   "uz": "30 soniyalik samarali ventilyatsiyadan keyin YuUCh 75 /daq.",
+   "ru": "После 30 секунд эффективной ИВЛ ЧСС 75 /мин."
+  },
+  "prompt": {
+   "uz": "Keyingi harakat?",
+   "ru": "Дальнейшие действия?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Ventilyatsiyani davom ettirish va intubatsiyaga tayyorlanish",
+    "ru": "Продолжить ИВЛ и готовить интубацию"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Yurak massajini boshlash",
+    "ru": "Начать НМС"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Ventilyatsiyani to'xtatish",
+    "ru": "Прекратить ИВЛ"
+   }
+  ],
+  "explanation": {
+   "uz": "60–100 → davom ettirish + intubatsiyaga tayyorgarlik; < 60 → massaj.",
+   "ru": "60–100 → продолжать + готовить интубацию; < 60 → НМС."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап В",
+   "page": 30
+  }
+ },
+ {
+  "id": "r3-10",
+  "lesson": "B bosqich — ventilyatsiya va oksigenatsiya",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Auskultatsiya bilan YuUCh aniqlanganda ventilyatsiya qancha vaqtga to'xtatiladi?",
+   "ru": "На сколько прерывают вентиляцию при подсчёте ЧСС аускультативно?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "6 soniya",
+    "ru": "6 секунд"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "30 soniya",
+    "ru": "30 секунд"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Umuman to'xtatilmaydi",
+    "ru": "Не прерывают вообще"
+   }
+  ],
+  "explanation": {
+   "uz": "Monitor bo'yicha — to'xtatilmaydi; auskultatsiyada — 6 soniyaga.",
+   "ru": "По монитору — не прекращают; при аускультации — на 6 секунд."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап В",
+   "page": 30
+  }
+ },
+ {
+  "id": "r4-1",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Yurak massajini boshlash ko'rsatmasi?",
+   "ru": "Показание к началу НМС?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "30 soniya samarali ventilyatsiyaga qaramay YuUCh < 60",
+    "ru": "ЧСС < 60, несмотря на 30 секунд эффективной ИВЛ"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "YuUCh < 100 tug'ilgan zahoti",
+    "ru": "ЧСС < 100 сразу после рождения"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Teri ko'kimtirligi",
+    "ru": "Цианоз кожи"
+   }
+  ],
+  "explanation": {
+   "uz": "Avval samarali ventilyatsiya, keyin YuUCh < 60 bo'lsa — massaj.",
+   "ru": "Сначала эффективная ИВЛ, затем при ЧСС < 60 — НМС."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «С»",
+   "page": 34
+  }
+ },
+ {
+  "id": "r4-2",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Massaj va nafas nisbati?",
+   "ru": "Соотношение компрессий и вдохов?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "3 : 1",
+    "ru": "3 : 1"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "15 : 2",
+    "ru": "15 : 2"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "30 : 2",
+    "ru": "30 : 2"
+   },
+   {
+    "i": 3,
+    "correct": false,
+    "uz": "5 : 1",
+    "ru": "5 : 1"
+   }
+  ],
+  "explanation": {
+   "uz": "3 bosish + 1 nafas = 2 soniya; daqiqasiga 90 + 30.",
+   "ru": "3 нажатия + 1 вдох = 2 секунды; 90 + 30 в минуту."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «С»",
+   "page": 34
+  }
+ },
+ {
+  "id": "r4-3",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Bosish chuqurligi?",
+   "ru": "Глубина компрессий?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Old-orqa diametrning 1/3 qismi",
+    "ru": "1/3 переднезаднего диаметра"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "1/2 qismi",
+    "ru": "1/2 диаметра"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "1 sm",
+    "ru": "1 см"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: ko'krak qafasi old-orqa diametrining uchdan bir qismi.",
+   "ru": "Протокол: одна треть переднезаднего диаметра грудной клетки."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «С»",
+   "page": 34
+  }
+ },
+ {
+  "id": "r4-4",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Massaj paytida kislorod konsentratsiyasi?",
+   "ru": "Концентрация кислорода во время НМС?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "100%",
+    "ru": "100%"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "21%",
+    "ru": "21%"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "40%",
+    "ru": "40%"
+   }
+  ],
+  "explanation": {
+   "uz": "Massaj kerak bo'lsa, kislorod 100% gacha oshiriladi va intubatsiya ko'rib chiqiladi.",
+   "ru": "При НМС кислород увеличивают до 100% и рассматривают интубацию."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Непрямой массаж сердца",
+   "page": 14
+  }
+ },
+ {
+  "id": "r4-6",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": {
+   "uz": "Massaj fonida YuUCh 70 /daq ga ko'tarildi.",
+   "ru": "На фоне НМС ЧСС повысилась до 70 /мин."
+  },
+  "prompt": {
+   "uz": "Keyingi harakat?",
+   "ru": "Дальнейшие действия?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Massajni to'xtatish, ventilyatsiyani 40–60 /daq davom ettirish",
+    "ru": "Прекратить НМС, продолжить ИВЛ 40–60 /мин"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "Massajni davom ettirish va adrenalin yuborish",
+    "ru": "Продолжить НМС и ввести адреналин"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Hamma choralarni to'xtatish",
+    "ru": "Прекратить все мероприятия"
+   }
+  ],
+  "explanation": {
+   "uz": "YuUCh > 60 — massaj to'xtaydi, ventilyatsiya davom etadi.",
+   "ru": "ЧСС > 60 — НМС прекращают, ИВЛ продолжают."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Оценка эффективности этапа «С»",
+   "page": 34
+  }
+ },
+ {
+  "id": "r4-7",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Adrenalinning vena ichiga dozasi (protokol, D bosqich)?",
+   "ru": "В/в доза адреналина (протокол, этап D)?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "0,2 ml/kg 1:10 000 eritmasi (20 mkg/kg)",
+    "ru": "0,2 мл/кг раствора 1:10 000 (20 мкг/кг)"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "1 ml/kg 1:1000 eritmasi",
+    "ru": "1 мл/кг раствора 1:1000"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "0,01 ml/kg 1:1000 eritmasi",
+    "ru": "0,01 мл/кг раствора 1:1000"
+   }
+  ],
+  "explanation": {
+   "uz": "20 mkg/kg = 0,2 ml/kg 1:10 000 konsentratsiyada.",
+   "ru": "20 мкг/кг = 0,2 мл/кг в концентрации 1:10 000."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «D»",
+   "page": 35
+  }
+ },
+ {
+  "id": "r4-8",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Birinchi dozadan keyin YuUCh < 60 qolsa, adrenalin qachon takrorlanadi?",
+   "ru": "Когда повторяют адреналин, если после 1-й дозы ЧСС < 60?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "3–5 daqiqadan keyin",
+    "ru": "Через 3–5 минут"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "30 soniyadan keyin",
+    "ru": "Через 30 секунд"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "15 daqiqadan keyin",
+    "ru": "Через 15 минут"
+   }
+  ],
+  "explanation": {
+   "uz": "Protokol: 3–5 daqiqadan keyin.",
+   "ru": "Протокол: через 3–5 минут."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «D»",
+   "page": 35
+  }
+ },
+ {
+  "id": "r4-9",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Hajmni to'ldirish uchun tanlov preparati va dozasi?",
+   "ru": "Препарат выбора и доза для восполнения ОЦК?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "0,9% {{NaCl}}, 10 ml/kg, 5–10 daqiqada",
+    "ru": "0,9% {{NaCl}}, 10 мл/кг, за 5–10 минут"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "5% glyukoza, 20 ml/kg tez",
+    "ru": "5% глюкоза, 20 мл/кг быстро"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Albumin 1 ml/kg",
+    "ru": "Альбумин 1 мл/кг"
+   }
+  ],
+  "explanation": {
+   "uz": "0,9% natriy xlorid kindik venasiga 10 ml/kg, 5–10 daqiqa davomida.",
+   "ru": "0,9% {{NaCl}} в пупочную вену 10 мл/кг в течение 5–10 минут."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Этап «D»",
+   "page": 35
+  }
+ },
+ {
+  "id": "r4-10",
+  "lesson": "C va D bosqichlar — yurak massaji va dorilar",
+  "type": "single",
+  "case": null,
+  "prompt": {
+   "uz": "Muddatida tug'ilgan chaqaloqda qaysi holatda reanimatsiyani to'xtatish ko'rib chiqiladi?",
+   "ru": "Когда рассматривают прекращение реанимации у доношенного?"
+  },
+  "options": [
+   {
+    "i": 0,
+    "correct": true,
+    "uz": "Barcha qadamlar bajarilib, 20 daqiqadan ko'proq YuUCh aniqlanmasa",
+    "ru": "ЧСС не определяется более 20 минут при выполнении всех шагов"
+   },
+   {
+    "i": 1,
+    "correct": false,
+    "uz": "5 daqiqadan keyin nafas bo'lmasa",
+    "ru": "Нет дыхания через 5 минут"
+   },
+   {
+    "i": 2,
+    "correct": false,
+    "uz": "Birinchi adrenalin dozasidan keyin",
+    "ru": "После первой дозы адреналина"
+   }
+  ],
+  "explanation": {
+   "uz": "10 daqiqada — qayta ko'rib chiqish; 20 daqiqadan ko'p — to'xtatish imkoniyati.",
+   "ru": "10 минут — пересмотр; более 20 минут — возможность прекращения."
+  },
+  "source": {
+   "protocolId": 1337,
+   "section": "Прекращение реанимации",
+   "page": 36
+  }
+ }
+]

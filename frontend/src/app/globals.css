@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+/* Dizayn tokenlari — davlat platformasi: tinch, ishonchli, yuqori kontrast */
+:root {
+  /* sahifa va sirtlar */
+  --bg: #f1f5f9;
+  --surface: #ffffff;
+  --surface-2: #f4f6f9;
+  /* matn */
+  --ink: #0f172a;
+  --ink-2: #334155;
+  --muted: #556174;
+  /* chiziqlar */
+  --line: #e2e8f0;
+  --line-strong: #b6c2d1;
+  /* brend: audit.kai.uz bilan bir xil (davlat ko'k rangi) */
+  --primary: #1e5aa8;
+  --primary-ink: #ffffff;
+  --primary-soft: #e9f0fa;
+  --primary-strong: #123a6e;
+  /* holatlar */
+  --accent: #a8620f;
+  --accent-soft: #fbf1e3;
+  --ok: #18744a;
+  --ok-soft: #e8f4ed;
+  --bad: #b3261e;
+  --bad-soft: #fcebe9;
+  --warn-soft: #fbf1e3;
+  --radius: 6px;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-primary: var(--primary);
+  --color-primary-ink: var(--primary-ink);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-strong: var(--primary-strong);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-warn-soft: var(--warn-soft);
+  --font-sans: var(--font-plex), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, "SF Mono", monospace;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 8px;
+  --radius-2xl: 10px;
+}
+
+/* 25+ auditoriya: asosiy shrift 18px, keng qator oralig'i */
+html {
+  font-size: 17px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "tnum" 0;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+::selection {
+  background: var(--primary-soft);
+}
+
+:focus-visible {
+  outline: 3px solid #f2b705;
+  outline-offset: 1px;
+  border-radius: 2px;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.anim-rise {
+  animation: rise 0.25s ease-out both;
+}
+
+@keyframes talk {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+}
+.anim-talk {
+  animation: talk 1.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-rise,
+  .anim-talk {
+    animation: none;
+  }
+}
